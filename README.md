@@ -1,11 +1,11 @@
-# 🎲 Thiago Panini
+# 🎲 Oi, eu sou o Thiago Panini (:
   
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FE209B&width=500&height=45&lines=Engenheiro+de+Analytics+apaixonado+por+dados;Um+life+long+learner+em+aprendizado+contínuo;Contribuindo+com+a+comunidade+open+source" alt="Typing SVG" /></a>
 </p>
 
-Um eterno aprendiz sobre tudo o que envolve tecnologia! Alguns projetos encontrados aqui foram criados para solucionar dores e problemas pessoais que, ao longo do processo de desenvolvimento, se tornaram relevantes o suficiente para serem compartilhados com toda a comunidade _open source_. A propósito, retornar à comunidade uma parcela daquilo que me foi proporcionado é uma das minhas principais missões. Neste perfil, você tem total liberdade para consumir conteúdos, opinar, contribuir e compartilhar aquilo que achar relevante. No _background_, espero sinceramente contribuir positivamente com sua jornada de aprendizado.
+Sou um eterno aprendiz sobre tudo o que envolve tecnologia e, neste perfil, você poderá encontrar soluções desenvolvidas justamente para suprir os anseios do saber! Alguns destes proketps foram criados para solucionar dores e problemas pessoais que, ao longo do processo de desenvolvimento, se tornaram relevantes o suficiente para serem compartilhados com toda a comunidade _open source_. A propósito, retornar à comunidade uma parcela daquilo que me foi proporcionado é uma das minhas principais missões. Sinta-se com total liberdade para consumir conteúdos, opinar, contribuir e compartilhar aquilo que achar relevante. Espero sinceramente te proporcionar uma experiência memória em sua jornada de aprendizado e de consumo de **produtos de dados**.
 
 <p align="left">
   
@@ -46,15 +46,15 @@ ___
 #
     
 <details open>
-  <summary><h3>💭 Algumas Curiosidades</h3></summary>
+  <summary><h3>🤔 Algumas Curiosidades</h3></summary>
   
   - ⚽ Sou apaixonado por futebol e Corintiano roxo
   - 🎬 Não tenho um canal no YouTube mas já fiz lives e participei de vídeos em canais de tecnologia
-  - 🤯 Curto filmes no estilo _mind blowing_. Provavelmente meu top 3 filmes é:
+  - 🤯 Curto filmes no estilo _mind blowing_. Meu top 3 filmes é:
     - Donnie Darko
     - Inception (A Origem)
     - Shutter Island (Ilha do Medo)
-  - 🏯 Sou extremamente fã de animes e quase um _otaku_ raíz. Provavelmente meu top 3 animes é:
+  - 🏯 Sou extremamente fã de animes e quase um _otaku_ raíz. Meu top 3 animes é:
     - Shingeki no Kyojin
     - Full Metal Alchemist
     - Darker than Black
@@ -65,6 +65,8 @@ ___
 
 ### 📽️ Vídeos no YouTube com a minha Participação
 
+Pois é, galera... como mencionei nas curiosidades, não tenho um canal próprio no YouTube, mas já dei algumas palinhas em conteúdos compartilhados publicamente em outros canais. Abaixo vocês poderão assistir um pouco dessas aventuras em que participei direta ou indiretamente.
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
 [![xplotter por Thiago Panini](https://ytcards.demolab.com/?id=mu82n6Vf9sw&title=xplotter+por+Thiago+Panini&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Chego a tremer só de pensar em plotar: xplotter (Thiago Panini)")](https://www.youtube.com/watch?v=mu82n6Vf9sw)
@@ -72,8 +74,18 @@ ___
     
 #
     
-### 📊 Estatísticas do GitHub e de Atividade
+<details open>
+  <summary><h3>📊 Estatísticas do GitHub</h3></summary>
+   
+  <h4>💻 Estatística de Perfil e 🔥 Streak</h4>
+  <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="192px"/></a>  
+  <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <br/>
+  
+  <h4>💪 Gráfico de Contribuição</h4>
+  <img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
+  <br/>
+  
+</details>
     
-![Estatísticas do perfil do GitHub](https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true)
-![Diagrama de Atividades](https://github-readme-activity-graph.cyclic.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true)
 
