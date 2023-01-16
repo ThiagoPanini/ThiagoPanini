@@ -58,8 +58,6 @@ ___
 <a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
 <a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Git Certified Associate Badge" align="left" width="100px">
 
-
-
 <br>
 <br>
 <br>
@@ -82,11 +80,20 @@ ___
     - Shingeki no Kyojin
     - Full Metal Alchemist
     - Darker than Black
- 
-  
+
 </details>
     
-___
+#
+
+<details open>
+  <summary><h3>📖 Postagens Recentes no Blog panini-techlab</h3></summary>
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  
+</details>
+
+#
 
 ### 📽️ Vídeos no YouTube com a minha Participação
 
@@ -116,8 +123,8 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
   <br>
   
   <h3>⚡ Atividade Recente no GitHub</h3>
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
     
 </details>  
   
