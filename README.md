@@ -9,6 +9,10 @@ Sou um eterno aprendiz sobre tudo o que envolve tecnologia e, neste perfil, voc�
 
 <p align="left">
   
+  <a href="https://www.linkedin.com/in/thiago-panini/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
   <a href="https://panini.hashnode.dev/">
     <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=1836B4&color=1E40DB&style=for-the-badge"
   </a>
@@ -66,6 +70,9 @@ ___
 <details open>
   <summary><h3>🤔 Algumas Curiosidades</h3></summary>
   
+  - ✍️ Tenho um blog pessoal chamado [panini-tech-lab](https://panini.hashnode.dev/) onde falo sobre Linux, Hadoop, Hive, Spark e outros temas
+  - ☁️ Participei do [AWS re:Invent 2022](https://reinvent.awsevents.com/)
+  - 🤖 Tenho um perfil no [Kaggle](https://www.kaggle.com/thiagopanini) com classificação "notebooks expert"
   - ⚽ Sou apaixonado por futebol e Corintiano roxo
   - 🤯 Curto filmes no estilo _mind blowing_. Meu top 3 filmes é:
     - Donnie Darko
@@ -75,7 +82,7 @@ ___
     - Shingeki no Kyojin
     - Full Metal Alchemist
     - Darker than Black
-  - 🎬 Não tenho um canal no YouTube mas já fiz lives e participei de vídeos em canais de tecnologia
+ 
   
 </details>
     
