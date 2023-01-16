@@ -117,6 +117,9 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
     
 </details>
 
+> **Note**
+> Todos os links e inspirações para a criação deste portfólio poderão ser visualizados na seção final deste perfil. Se você curtiu e deseja fazer algo parecido, conta comigo pra te ajudar :)
+  
 #
 
 <details>
