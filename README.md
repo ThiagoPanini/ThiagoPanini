@@ -85,16 +85,6 @@ ___
     
 #
 
-<details open>
-  <summary><h3>📖 Postagens Recentes no Blog panini-techlab</h3></summary>
-
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-  
-</details>
-
-#
-
 ### 📽️ Vídeos no YouTube com a minha Participação
 
 Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias geradas através de conteúdos compartilhados publicamente. Vejam só:
@@ -121,10 +111,6 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
   <h3>🦾 Gráfico de Contribuição (Último ano)</h3>
   <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
   <br>
-  
-  <h3>⚡ Atividade Recente no GitHub</h3>
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
     
 </details>  
   
