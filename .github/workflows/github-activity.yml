@@ -1,17 +1,17 @@
-name: Atividade Recente no Github - README
+name: ⚡ Recent GitHub Activity
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Atualiza o README com atividade recente
+    name: Atualiza README do perfil
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
