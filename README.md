@@ -49,7 +49,6 @@ ___
   <summary><h3>🤔 Algumas Curiosidades</h3></summary>
   
   - ⚽ Sou apaixonado por futebol e Corintiano roxo
-  - 🎬 Não tenho um canal no YouTube mas já fiz lives e participei de vídeos em canais de tecnologia
   - 🤯 Curto filmes no estilo _mind blowing_. Meu top 3 filmes é:
     - Donnie Darko
     - Inception (A Origem)
@@ -58,6 +57,7 @@ ___
     - Shingeki no Kyojin
     - Full Metal Alchemist
     - Darker than Black
+  - 🎬 Não tenho um canal no YouTube mas já fiz lives e participei de vídeos em canais de tecnologia
   
 </details>
     
@@ -65,7 +65,7 @@ ___
 
 ### 📽️ Vídeos no YouTube com a minha Participação
 
-Pois é, galera... como mencionei nas curiosidades, não tenho um canal próprio no YouTube, mas já dei algumas palinhas em conteúdos compartilhados publicamente em outros canais. Abaixo vocês poderão assistir um pouco dessas aventuras em que participei direta ou indiretamente.
+Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias geradas através de conteúdos compartilhados publicamente. Vejam só:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
@@ -82,10 +82,26 @@ Pois é, galera... como mencionei nas curiosidades, não tenho um canal próprio
   <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="192px"/></a>
   <br/>
   
-  <h4>💪 Gráfico de Contribuição</h4>
+  <h4>💪 Gráfico de Contribuição (Últimos 30d)</h4>
   <img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
   <br/>
   
-</details>
+  <h4>🦾 Gráfico de Contribuição (Último ano)</h4>
+  <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
+  <br>
     
+</details>
 
+#
+
+<details>
+  <summary><h3>🔗 Referências, Links Úteis e Inspirações</h3></summary>
+   
+  - Perfis dos devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini) e [@arthurspk](https://github.com/arthurspk)
+  - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) para escrita dinâmica no início da página
+  - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) para criação de ícones customizados nas _badges_ (ex: hashnode e Itaú)
+  - [devicons/devicon](https://github.com/devicons/devicon) para uso de ícones de tecnologias e ferramentas
+  - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) para personalização de cards de vídeos do YouTube
+  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) para estatísticas de perfil e atividades do GitHub
+  
+</details>
