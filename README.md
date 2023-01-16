@@ -118,6 +118,8 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
   <h3>⚡ Atividade Recente no GitHub</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
+  
+  <!--END_SECTION:activity-->
     
 </details>
   
