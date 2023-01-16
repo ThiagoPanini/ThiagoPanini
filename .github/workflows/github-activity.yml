@@ -15,5 +15,3 @@ jobs:
       - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 5
