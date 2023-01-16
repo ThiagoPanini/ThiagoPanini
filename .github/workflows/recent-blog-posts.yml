@@ -15,3 +15,4 @@ jobs:
         with:
           feed_list: "https://panini.hashnode.dev/rss.xml"
           commit_message: 'ci: atualiza postagens de blog no hashnode'
+          gh_token: ${{ secrets.BOT_GITHUB_TOKEN }}
