@@ -112,7 +112,9 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
   <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
   <br>
   
-  <h3>⚡ Atividade Recente no GitHuby</h3>
+  <h3>⚡ Atividade Recente no GitHub</h3>
+  
+  Em construção...
   
   <!--RECENT_ACTIVITY:start-->
 
