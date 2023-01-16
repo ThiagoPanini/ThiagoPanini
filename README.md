@@ -44,6 +44,24 @@ ___
 <br>
     
 #
+
+### 🖊️ Certificados de Tecnologia
+    
+<a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
+<a href="https://www.credly.com/badges/8e6de88a-26c1-4c4f-ac54-7a0d7d97fe10/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100px">
+<a href="https://www.credly.com/badges/e5949fce-1c22-4bab-8f45-dff46640d228/public_url"><img src="https://i.imgur.com/wvK1S2e.png" alt="AWS Data Lab Participant Badge" align="left" width="100px">
+<a href="https://credentials.databricks.com/f1bb0675-099c-491c-a49a-79d441e44cfa"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59187797" alt="Databricks Spark Developer Associate Badge" align="left" width="100px">
+<a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
+<a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Git Certified Associate Badge" align="left" width="100px">
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+#
     
 <details open>
   <summary><h3>🤔 Algumas Curiosidades</h3></summary>
