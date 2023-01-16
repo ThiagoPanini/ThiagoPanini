@@ -102,18 +102,21 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
 <details open>
   <summary><h3>📊 Estatísticas do GitHub</h3></summary>
    
-  <h4>💻 Estatística de Perfil e 🔥 Streak</h4>
+  <h3>💻 Estatística de Perfil e 🔥 Streak</h3>
   <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
   <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="165px"/></a>
   <br/>
   
-  <h4>💪 Gráfico de Contribuição (Últimos 30d)</h4>
+  <h3>💪 Gráfico de Contribuição (Últimos 30d)</h3>
   <img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
   <br/>
   
-  <h4>🦾 Gráfico de Contribuição (Último ano)</h4>
+  <h3>🦾 Gráfico de Contribuição (Último ano)</h3>
   <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
   <br>
+  
+  <h3>⚡ Atividade Recente no GitHub</h3>
+  <!--START_SECTION:activity-->
     
 </details>
 
