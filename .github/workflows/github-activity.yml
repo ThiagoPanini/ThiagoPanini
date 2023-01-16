@@ -2,7 +2,7 @@ name: Atividade Recente no Github - README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
