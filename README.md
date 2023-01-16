@@ -124,7 +124,7 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
 <details>
   <summary><h3>🔗 Referências, Links Úteis e Inspirações</h3></summary>
    
-  - Perfis dos devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini) e [@arthurspk](https://github.com/arthurspk)
+  - Perfis dos devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
   - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) para escrita dinâmica no início da página
   - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) para criação de ícones customizados nas _badges_ (ex: hashnode e Itaú)
   - [devicons/devicon](https://github.com/devicons/devicon) para uso de ícones de tecnologias e ferramentas
