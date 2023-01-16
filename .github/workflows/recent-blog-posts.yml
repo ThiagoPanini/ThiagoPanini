@@ -1,0 +1,17 @@
+name: Coleta Postagens Mais Recentes de Blog
+on:
+  workflow_dispatch: # Manual dispatch
+  schedule:
+    - cron: '0 1 * * 0' # At 01:00 on Sunday.
+jobs:
+  get-posts:
+    name: Get Blog Posts from RSS Feed
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Coleta posts de blog no hashnode
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://panini.hashnode.dev/rss.xml"
+          commit_message: 'ci: atualiza postagens de blog no hashnode'
