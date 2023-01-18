@@ -94,7 +94,7 @@ ___
        
   </p>
   
-  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para+acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
   
