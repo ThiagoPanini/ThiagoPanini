@@ -144,6 +144,7 @@ Last Updated: Tuesday, January 17th, 2023, 11:37:18 PM
   - [devicons/devicon](https://github.com/devicons/devicon) para uso de ícones de tecnologias e ferramentas
   - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) para personalização de cards de vídeos do YouTube
   - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) para estatísticas de perfil e atividades do GitHub
+  - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) para ação automática de coleta de atividades recentes do GitHub
   
 </details>
 
