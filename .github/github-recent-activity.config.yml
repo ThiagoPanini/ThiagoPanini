@@ -1,6 +1,6 @@
 settings:
   username: "ThiagoPanini"
-  commit_msg: "⚡ Update README with the recent activity"
+  commit_msg: "ci: atualizando perfil com atividade recente no GitHub"
   max_lines: 5
   readme_file: "./README.md"
   disabled_events:
