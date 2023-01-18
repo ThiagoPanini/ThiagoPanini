@@ -1,8 +1,8 @@
-name: ⚡ Recent GitHub Activity
+name: Update README
 
 on:
   schedule:
-    - cron: "0/30 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
