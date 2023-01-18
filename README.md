@@ -115,15 +115,15 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. 🔱 Forked [ThiagoPanini/Lissy93](https://github.com/ThiagoPanini/Lissy93) from [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93)<br>
-3. 🔱 Forked [ThiagoPanini/jamesgeorge007](https://github.com/ThiagoPanini/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)<br>
-4. ⭐ Starred [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
-5. ⬆️ Pushed 5 commit(s) to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+1. ⬆️ Realizou o push de 4 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+2. 🔱 Forked [ThiagoPanini/Lissy93](https://github.com/ThiagoPanini/Lissy93) de [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93)<br>
+3. 🔱 Forked [ThiagoPanini/jamesgeorge007](https://github.com/ThiagoPanini/jamesgeorge007) de [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)<br>
+4. ⭐ Favoritou [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
+5. ⬆️ Realizou o push de 5 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 17th, 2023, 11:37:18 PM
+Last Updated: Tuesday, January 17th, 2023, 11:47:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
