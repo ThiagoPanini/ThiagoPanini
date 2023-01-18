@@ -99,7 +99,7 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
 <details open>
   <summary><h3>📊 Estatísticas do GitHub</h3></summary>
    
-  <h3>💻 Estatística de Perfil e 🔥 Streak</h3>
+  <h3>💻 Estatísticas de Perfil e 🔥 Streak</h3>
   <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
   <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="165px"/></a>
   <br/>
@@ -112,9 +112,7 @@ Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias gerada
   <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
   <br>
   
-  <h3>⚡ Atividade Recente no GitHub</h3>
-  
-  Em construção...
+  <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 4 commit(s) to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
