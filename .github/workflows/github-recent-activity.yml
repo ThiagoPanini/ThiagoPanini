@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: "./.github/github-recent-activity.config.yml"
+          GH_USERNAME: "thiagopanini"
