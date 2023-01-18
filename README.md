@@ -64,6 +64,41 @@ ___
 <br>
 
 #
+  
+<details open>
+  <summary><h3>📦 Meus Principais Repositórios</h3></summary>
+  <p align="left">
+  <a href="https://github.com/ThiagoPanini/terraglue">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=tokyonight&hide_border=true" alt="terraglue"/>
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/nbaflow">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=tokyonight&hide_border=true" alt="nbaflow"/>
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/jaiminho">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=jaiminho&theme=tokyonight&hide_border=true" alt="jaiminho"/>
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/cloudgeass">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/xplotter">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=xplotter&theme=tokyonight&hide_border=true" alt="xplotter"/>
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/pynvest">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=tokyonight&hide_border=true" alt="pynvest"/>
+  </a>
+       
+  </p>
+  
+  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para+acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+</details>
+  
+#
     
 <details open>
   <summary><h3>🤔 Algumas Curiosidades</h3></summary>
@@ -85,15 +120,16 @@ ___
     
 #
 
-### 📽️ Vídeos no YouTube com a minha Participação
-
-Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias geradas através de conteúdos compartilhados publicamente. Vejam só:
+<details open>
+  <summary><h3>📽️ Vídeos no YouTube com a minha Participação</h3></summary>
+  
+  Não tenho um canal no YouTube, mas já me aventurei em algumas parcerias geradas através de conteúdos compartilhados publicamente. Vejam só:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
 [![xplotter por Thiago Panini](https://ytcards.demolab.com/?id=mu82n6Vf9sw&title=xplotter+por+Thiago+Panini&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Chego a tremer só de pensar em plotar: xplotter (Thiago Panini)")](https://www.youtube.com/watch?v=mu82n6Vf9sw)
 <!-- END YOUTUBE-CARDS -->
-    
+      
 #
     
 <details open>
