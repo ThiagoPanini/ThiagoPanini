@@ -151,15 +151,15 @@ ___
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Abriu a issue [#37](https://github.com/ThiagoPanini/terraglue/issues/37) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. ⬆️ Realizou o push de 4 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. 🔱 Forked [ThiagoPanini/Lissy93](https://github.com/ThiagoPanini/Lissy93) de [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93)<br>
-4. 🔱 Forked [ThiagoPanini/jamesgeorge007](https://github.com/ThiagoPanini/jamesgeorge007) de [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)<br>
-5. ⭐ Favoritou [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
+1. ⬆️ Realizou o push de 3 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+2. 🎉 Realizou o merge do PR [#39](https://github.com/ThiagoPanini/terraglue/pull/39) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+3. ❗️ Abriu a issue [#40](https://github.com/ThiagoPanini/terraglue/issues/40) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+4. ✔️ Fechou a issue [#31](https://github.com/ThiagoPanini/terraglue/issues/31) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+5. ✔️ Fechou a issue [#37](https://github.com/ThiagoPanini/terraglue/issues/37) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 18th, 2023, 6:12:12 PM
+Last Updated: Wednesday, January 18th, 2023, 11:45:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
