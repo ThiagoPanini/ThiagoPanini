@@ -151,15 +151,15 @@ ___
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Abriu o PR [#50](https://github.com/ThiagoPanini/terraglue/pull/50) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. ⬆️ Realizou o push de 6 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. 🎉 Realizou o merge do PR [#49](https://github.com/ThiagoPanini/terraglue/pull/49) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-4. 💪 Abriu o PR [#49](https://github.com/ThiagoPanini/terraglue/pull/49) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+1. ⭐ Favoritou [repo-sync/pull-request](https://github.com/repo-sync/pull-request)<br>
+2. 💪 Abriu o PR [#50](https://github.com/ThiagoPanini/terraglue/pull/50) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+3. ⬆️ Realizou o push de 6 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+4. 🎉 Realizou o merge do PR [#49](https://github.com/ThiagoPanini/terraglue/pull/49) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+5. 💪 Abriu o PR [#49](https://github.com/ThiagoPanini/terraglue/pull/49) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 30th, 2023, 11:45:07 PM
+Last Updated: Tuesday, January 31st, 2023, 11:54:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
