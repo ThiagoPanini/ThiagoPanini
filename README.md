@@ -71,6 +71,10 @@ ___
   <a href="https://github.com/ThiagoPanini/terraglue">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=tokyonight&hide_border=true" alt="terraglue"/>
   </a>
+    
+  <a href="https://github.com/ThiagoPanini/cloudgeass">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
+  </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=tokyonight&hide_border=true" alt="nbaflow"/>
@@ -78,10 +82,6 @@ ___
 
   <a href="https://github.com/ThiagoPanini/jaiminho">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=jaiminho&theme=tokyonight&hide_border=true" alt="jaiminho"/>
-  </a>
-
-  <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/xplotter">
