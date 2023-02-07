@@ -151,15 +151,15 @@ ___
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Abriu a issue [#5](https://github.com/ThiagoPanini/cloudgeass/issues/5) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-2. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-3. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-4. ⬆️ Realizou o push de 8 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-5. 🎉 Realizou o merge do PR [#4](https://github.com/ThiagoPanini/cloudgeass/pull/4) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+1. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+2. ⬆️ Realizou o push de 3 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+3. ⬆️ Realizou o push de 15 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+4. 🎉 Realizou o merge do PR [#6](https://github.com/ThiagoPanini/cloudgeass/pull/6) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+5. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 5th, 2023, 11:38:15 PM
+Last Updated: Monday, February 6th, 2023, 11:38:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
