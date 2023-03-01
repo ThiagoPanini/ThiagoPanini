@@ -75,6 +75,10 @@ ___
   <a href="https://github.com/ThiagoPanini/cloudgeass">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
   </a>
+    
+  <a href="https://github.com/ThiagoPanini/gluesnake">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=gluesnake&theme=tokyonight&hide_border=true" alt="gluesnake"/>
+  </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=tokyonight&hide_border=true" alt="nbaflow"/>
