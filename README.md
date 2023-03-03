@@ -51,9 +51,12 @@ ___
 
 ### 🛒 Produtos de Prateleira
 
-<a href="https://github.com/ThiagoPanini/terraglue"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="150px"></a>
-<a href="https://cloudgeass.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo-text.png?raw=true" alt="cloudgeass-icon" align="left" width="170px"></a>
-<a href="https://github.com/ThiagoPanini/gluesnake"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/gluesnake-logo-text.png?raw=true" alt="gluesnake-icon" align="left" width="160px"></a>
+Uma das minhas atividades preferidas é contribuir com a comunidade _open source_! Recentemente, decidi dedicar boa parte do meu tempo criando uma prateleira própria de soluções divulgadas com a comunidade. Essa padronização envolveu a criação de logos, identidades visuais e uma verdadeira transformações nas iniciativas para tornar tudo muito mais amigável ao público. Algumas das principais soluções que passaram por esse processo foram:
+
+<a href="https://github.com/ThiagoPanini/terraglue"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="120px"></a>
+<a href="https://cloudgeass.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="135px"></a>
+<a href="https://github.com/ThiagoPanini/gluesnake"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/gluesnake-logo.png?raw=true" alt="gluesnake-icon" align="left" width="125px"></a>
+<a href="https://github.com/ThiagoPanini/pandora"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-logo.png?raw=true" alt="pandora-icon" align="left" width="120px"></a>
 
 <br>
 <br>
@@ -100,6 +103,10 @@ ___
     
   <a href="https://github.com/ThiagoPanini/gluesnake">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=gluesnake&theme=tokyonight&hide_border=true" alt="gluesnake"/>
+  </a>
+    
+  <a href="https://github.com/ThiagoPanini/pandora">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=tokyonight&hide_border=true" alt="pandora"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
