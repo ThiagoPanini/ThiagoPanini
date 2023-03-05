@@ -55,7 +55,7 @@ Uma das minhas atividades preferidas é contribuir com a comunidade _open source
 
 <a href="https://github.com/ThiagoPanini/terraglue"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="120px"></a>
 <a href="https://cloudgeass.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="135px"></a>
-<a href="https://github.com/ThiagoPanini/gluesnake"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/gluesnake-logo.png?raw=true" alt="gluesnake-icon" align="left" width="125px"></a>
+<a href="https://gluesnake.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/gluesnake-logo.png?raw=true" alt="gluesnake-icon" align="left" width="125px"></a>
 <a href="https://pandoratemplate.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-logo.png?raw=true" alt="pandora-icon" align="left" width="120px"></a>
 
 <br>
