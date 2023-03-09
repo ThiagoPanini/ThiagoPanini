@@ -184,15 +184,15 @@ Uma das minhas atividades preferidas é contribuir com a comunidade _open source
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Realizou o push de 18 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
-2. 🎉 Realizou o merge do PR [#4](https://github.com/ThiagoPanini/gluesnake/pull/4) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
-3. ⬆️ Realizou o push de 3 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
-4. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
-5. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
+1. ⬆️ Realizou o push de 3 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
+2. 🎉 Realizou o merge do PR [#6](https://github.com/ThiagoPanini/gluesnake/pull/6) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
+3. ⬆️ Realizou o push de 2 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
+4. ⬆️ Realizou o push de 6 commit(s) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
+5. 🎉 Realizou o merge do PR [#5](https://github.com/ThiagoPanini/gluesnake/pull/5) em [ThiagoPanini/gluesnake](https://github.com/ThiagoPanini/gluesnake)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 7th, 2023, 11:51:47 PM
+Last Updated: Wednesday, March 8th, 2023, 11:51:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
