@@ -184,15 +184,15 @@ Uma das minhas atividades preferidas é contribuir com a comunidade _open source
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-2. ⬆️ Realizou o push de 2 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+1. ❗️ Abriu a issue [#11](https://github.com/ThiagoPanini/sparksnake/issues/11) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+2. ✔️ Fechou a issue [#8](https://github.com/ThiagoPanini/sparksnake/issues/8) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 3. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-4. ⬆️ Realizou o push de 14 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-5. 🎉 Realizou o merge do PR [#21](https://github.com/ThiagoPanini/cloudgeass/pull/21) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+4. ⬆️ Realizou o push de 2 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+5. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 15th, 2023, 11:38:08 PM
+Last Updated: Thursday, March 16th, 2023, 11:35:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
