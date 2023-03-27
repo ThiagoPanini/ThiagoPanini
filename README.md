@@ -184,15 +184,15 @@ Uma das minhas atividades preferidas é contribuir com a comunidade _open source
   <h3>⚡ Atividade Recente</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-4. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+1. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+2. ⬆️ Realizou o push de 2 commit(s) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+3. 🎉 Realizou o merge do PR [#19](https://github.com/ThiagoPanini/sparksnake/pull/19) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+4. ⬆️ Realizou o push de 6 commit(s) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+5. ⬆️ Realizou o push de 1 commit(s) em [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 25th, 2023, 11:36:21 PM
+Last Updated: Sunday, March 26th, 2023, 11:32:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
