@@ -97,16 +97,16 @@ One of the things I love is to contribute with the open source community. A few 
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=tokyonight&hide_border=true" alt="terraglue"/>
   </a>
     
-  <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
-  </a>
-    
-  <a href="https://github.com/ThiagoPanini/gluesnake">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=gluesnake&theme=tokyonight&hide_border=true" alt="gluesnake"/>
-  </a>
-    
+  <a href="https://github.com/ThiagoPanini/sparksnake">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=tokyonight&hide_border=true" alt="sparksnake"/>
+  </a>  
+  
   <a href="https://github.com/ThiagoPanini/pandora">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=tokyonight&hide_border=true" alt="pandora"/>
+  </a>
+    
+  <a href="https://github.com/ThiagoPanini/cloudgeass">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
