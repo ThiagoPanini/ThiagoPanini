@@ -53,7 +53,7 @@ ___
 
 One of the things I love is to contribute with the open source community. A few time ago, I decided to dedicate a good part of my time for create a kind of "solutions shelf" with projects that I really think that could be useful for the data community. This process was made by the creation of logotypes, visual identity and a real transformation on the projects to turn everything more friendly and easy to use. Some of the projects of this shelf can be found below.
 
-<a href="https://github.com/ThiagoPanini/terraglue"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="120px"></a>
+<a href="https://terraglue.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="120px"></a>
 <a href="https://sparksnake.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/sparksnake/blob/main/docs/assets/imgs/logo-with-text.png?raw=true" alt="sparksnake-icon" align="left" width="137px"></a>
 <a href="https://pandoratemplate.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-logo.png?raw=true" alt="pandora-icon" align="left" width="120px"></a>
 <a href="https://cloudgeass.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="135px"></a>
