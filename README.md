@@ -185,15 +185,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Gave a stargaze on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. ⭐ Gave a stargaze on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-4. ⬆️ Pushed 2 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. 🎉 Merged PR [#65](https://github.com/ThiagoPanini/terraglue/pull/65) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+1. ⬆️ Pushed 1 commits to [ThiagoPanini/terracatalog](https://github.com/ThiagoPanini/terracatalog)<br>
+2. ⬆️ Pushed 1 commits to [ThiagoPanini/terracatalog](https://github.com/ThiagoPanini/terracatalog)<br>
+3. 📔 Created the repo [ThiagoPanini/terracatalog](https://github.com/ThiagoPanini/terracatalog)<br>
+4. 🎉 Merged PR [#66](https://github.com/ThiagoPanini/terraglue/pull/66) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+5. ⬆️ Pushed 4 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 31st, 2023, 11:29:29 PM
+Last Updated: Saturday, April 1st, 2023, 11:29:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
