@@ -192,14 +192,14 @@ One of the things I love is to contribute with the open source community. A few 
   
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. ⬆️ Pushed 2 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-4. ⬆️ Pushed 3 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+2. ❗️ Opened issue [#69](https://github.com/ThiagoPanini/terraglue/issues/69) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+3. ❗️ Opened issue [#68](https://github.com/ThiagoPanini/terraglue/issues/68) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+4. ✔️ Closed issue [#7](https://github.com/ThiagoPanini/terraglue/issues/7) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+5. ✔️ Closed issue [#13](https://github.com/ThiagoPanini/terraglue/issues/13) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 14th, 2023, 11:29:44 PM
+Last Updated: Saturday, April 15th, 2023, 11:33:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
