@@ -191,15 +191,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-2. ❗️ Opened issue [#69](https://github.com/ThiagoPanini/terraglue/issues/69) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. ❗️ Opened issue [#68](https://github.com/ThiagoPanini/terraglue/issues/68) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-4. ✔️ Closed issue [#7](https://github.com/ThiagoPanini/terraglue/issues/7) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. ✔️ Closed issue [#13](https://github.com/ThiagoPanini/terraglue/issues/13) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+1. ⭐ Gave a stargaze on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+2. 🎉 Merged PR [#70](https://github.com/ThiagoPanini/terraglue/pull/70) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+3. ⬆️ Pushed 7 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+4. ⬆️ Pushed 3 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+5. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 15th, 2023, 11:33:43 PM
+Last Updated: Sunday, April 16th, 2023, 11:31:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
