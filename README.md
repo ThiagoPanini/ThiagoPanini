@@ -191,15 +191,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-2. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-3. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-4. ⬆️ Pushed 2 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. 🎉 Merged PR [#78](https://github.com/ThiagoPanini/terraglue/pull/78) on [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+1. ⬆️ Pushed 3 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+2. ✔️ Closed issue [#25](https://github.com/ThiagoPanini/sparksnake/issues/25) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+3. ✔️ Closed issue [#21](https://github.com/ThiagoPanini/sparksnake/issues/21) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+4. 🎉 Merged PR [#27](https://github.com/ThiagoPanini/sparksnake/pull/27) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+5. ⬆️ Pushed 7 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 30th, 2023, 11:51:48 PM
+Last Updated: Thursday, June 1st, 2023, 12:10:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
