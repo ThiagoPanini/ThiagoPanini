@@ -166,6 +166,7 @@ One of the things I love is to contribute with the open source community. A few 
   I don't have a YouTube channel, but I recorded some videos in the past. Check it out:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Itau DS Meetup: Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS](https://ytcards.demolab.com/?id=rdphV7WeTdc&title=Itau+DS+Meetup+-+Utilizando+Terraform+Para+Aprimorar+o+Aprendizado+em+Servicos+de+Analytics+na+AWS&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Itau DS Meetup - Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS")](https://www.youtube.com/watch?v=rdphV7WeTdc&t=2s&ab_channel=Ita%C3%BA)
 [![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
 [![xplotter por Thiago Panini](https://ytcards.demolab.com/?id=mu82n6Vf9sw&title=xplotter+por+Thiago+Panini&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Chego a tremer só de pensar em plotar: xplotter (Thiago Panini)")](https://www.youtube.com/watch?v=mu82n6Vf9sw)
 <!-- END YOUTUBE-CARDS -->
@@ -181,7 +182,7 @@ One of the things I love is to contribute with the open source community. A few 
   <br/>
   
   <h3>💪 Contribution Graph (Last 30d)</h3>
-  <img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
+  <img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
   <br/>
   
   <h3>🦾 Contribution Graph (Last Year)</h3>
