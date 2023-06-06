@@ -194,13 +194,13 @@ One of the things I love is to contribute with the open source community. A few 
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 2. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-3. ⬆️ Pushed 2 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 4. ⬆️ Pushed 2 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
-5. ⬆️ Pushed 7 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+5. ⬆️ Pushed 2 commits to [ThiagoPanini/terraglue](https://github.com/ThiagoPanini/terraglue)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 4th, 2023, 11:49:13 PM
+Last Updated: Monday, June 5th, 2023, 11:53:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
