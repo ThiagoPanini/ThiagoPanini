@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-2. 🎉 Merged PR [#29](https://github.com/ThiagoPanini/sparksnake/pull/29) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-3. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+1. 🎉 Merged PR [#31](https://github.com/ThiagoPanini/sparksnake/pull/31) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+2. ⬆️ Pushed 4 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+3. ❌ Closed PR [#30](https://github.com/ThiagoPanini/sparksnake/pull/30) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 4. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 5. ⬆️ Pushed 2 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 12th, 2023, 11:39:31 PM
+Last Updated: Tuesday, June 13th, 2023, 11:38:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
