@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commits to [ThiagoPanini/datadelivery](https://github.com/ThiagoPanini/datadelivery)<br>
-2. ❗️ Opened issue [#14](https://github.com/ThiagoPanini/datadelivery/issues/14) on [ThiagoPanini/datadelivery](https://github.com/ThiagoPanini/datadelivery)<br>
-3. 🎉 Merged PR [#31](https://github.com/ThiagoPanini/sparksnake/pull/31) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-4. ⬆️ Pushed 4 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
-5. ❌ Closed PR [#30](https://github.com/ThiagoPanini/sparksnake/pull/30) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+1. ⬆️ Pushed 4 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+2. 🎉 Merged PR [#33](https://github.com/ThiagoPanini/sparksnake/pull/33) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+4. ⬆️ Pushed 2 commits to [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
+5. ❗️ Opened issue [#32](https://github.com/ThiagoPanini/sparksnake/issues/32) on [ThiagoPanini/sparksnake](https://github.com/ThiagoPanini/sparksnake)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 26th, 2023, 12:02:59 AM
+Last Updated: Monday, June 26th, 2023, 11:58:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
