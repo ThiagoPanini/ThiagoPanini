@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
-2. ⬆️ Pushed 1 commits to [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
-3. ⬆️ Pushed 1 commits to [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
+1. ⬆️ Pushed 2 commits to [ThiagoPanini/nbaflow-tools](https://github.com/ThiagoPanini/nbaflow-tools)<br>
+2. ⬆️ Pushed 6 commits to [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
+3. 🎉 Merged PR [#18](https://github.com/ThiagoPanini/nbaflow/pull/18) on [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
 4. ⬆️ Pushed 1 commits to [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
 5. ⬆️ Pushed 1 commits to [ThiagoPanini/nbaflow](https://github.com/ThiagoPanini/nbaflow)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 11:18:01 PM
+Last Updated: Tuesday, September 12th, 2023, 11:19:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
