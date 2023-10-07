@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+1. ⬆️ Pushed 8 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
 2. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-3. ⬆️ Pushed 1 commits to [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-4. ⬆️ Pushed 17 commits to [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
-5. 🎉 Merged PR [#25](https://github.com/ThiagoPanini/cloudgeass/pull/25) on [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+4. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+5. ⬆️ Pushed 1 commits to [ThiagoPanini/cloudgeass](https://github.com/ThiagoPanini/cloudgeass)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 5th, 2023, 11:20:38 PM
+Last Updated: Friday, October 6th, 2023, 11:18:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
