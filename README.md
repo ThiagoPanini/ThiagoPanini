@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-2. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-3. ⬆️ Pushed 18 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-4. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-5. ⬆️ Pushed 11 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+2. ⬆️ Pushed 16 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+4. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+5. ⬆️ Pushed 18 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 30th, 2023, 11:21:05 PM
+Last Updated: Tuesday, October 31st, 2023, 11:24:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
