@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ✌️ Launched release [v0.0.1](https://github.com/ThiagoPanini/pynvest-tools/releases/tag/v0.0.1) on [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-2. ⬆️ Pushed 48 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-3. 🎉 Merged PR [#1](https://github.com/ThiagoPanini/pynvest-tools/pull/1) on [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-4. 👍 Approved change [#1](https://github.com/ThiagoPanini/pynvest-tools/pull/1#pullrequestreview-1713684231) on [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-5. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+1. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+2. 🎉 Merged PR [#2](https://github.com/ThiagoPanini/pynvest-tools/pull/2) on [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+3. 👍 Approved change [#2](https://github.com/ThiagoPanini/pynvest-tools/pull/2#pullrequestreview-1713690160) on [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+4. ✌️ Launched release [v0.0.1](https://github.com/ThiagoPanini/pynvest-tools/releases/tag/v0.0.1) on [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+5. ⬆️ Pushed 48 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 3rd, 2023, 11:19:48 PM
+Last Updated: Saturday, November 4th, 2023, 11:23:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
