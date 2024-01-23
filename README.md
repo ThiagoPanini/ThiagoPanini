@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-2. ⬆️ Pushed 3 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-3. ⬆️ Pushed 4 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-4. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-5. ⬆️ Pushed 5 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+1. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+2. ⬆️ Pushed 4 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+4. ⬆️ Pushed 4 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+5. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 21st, 2024, 11:32:05 PM
+Last Updated: Monday, January 22nd, 2024, 11:29:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
