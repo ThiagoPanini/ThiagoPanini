@@ -193,14 +193,14 @@ One of the things I love is to contribute with the open source community. A few 
   
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-2. ⬆️ Pushed 3 commits to [ThiagoPanini/datadelivery](https://github.com/ThiagoPanini/datadelivery)<br>
-3. 🎉 Merged PR [#15](https://github.com/ThiagoPanini/datadelivery/pull/15) on [ThiagoPanini/datadelivery](https://github.com/ThiagoPanini/datadelivery)<br>
-4. ⬆️ Pushed 13 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-5. ⬆️ Pushed 3 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+2. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+4. ⬆️ Pushed 1 commits to [ThiagoPanini/datadelivery](https://github.com/ThiagoPanini/datadelivery)<br>
+5. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 29th, 2024, 11:18:49 PM
+Last Updated: Tuesday, January 30th, 2024, 11:19:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
