@@ -192,15 +192,15 @@ One of the things I love is to contribute with the open source community. A few 
   <h3>⚡ Recent Activity</h3>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-2. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-3. ⭐ Gave a stargaze on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)<br>
-4. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+1. ⬆️ Pushed 6 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+2. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+3. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+4. ⭐ Gave a stargaze on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)<br>
 5. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 10th, 2024, 11:21:29 PM
+Last Updated: Sunday, February 11th, 2024, 11:20:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
