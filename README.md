@@ -51,7 +51,6 @@ In this page I will share with you a lot of good things, from personal thoughts 
 <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
 <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
 <a href="https://www.kaggle.com/"><img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg"/></a>
-<a href="https://www.atlassian.com/software/confluence"><img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg"/></a>
 
 <br>
     
