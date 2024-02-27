@@ -1,11 +1,11 @@
-# 🎲 Hi, I'm Thiago Panini (:
+# 👋 Hi everyone and welcome to my GitHub profile!
   
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FE209B&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=B252D0&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
 </p>
 
-Welcome to my GitHub profile! Here you will find solutions, experiments, snippets and everything related to techonology (specially on data). Some of the projects I share here are part of my continuous learning journey and almost everyone of them were created to solve real life problems. By the way, in some way, those projects became important enough to be shared with other people that may have similar problems. I believe that's the chain that stick us together as a community and I really hope that something you find here can help you somehow. Feel free to share, comment, provide feedback and interact with me.
+In this page I will share with you a lot of good things, from personal thoughts to useful projects. Take a seat and enjoy it!
 
 <p align="left">
   
@@ -31,34 +31,61 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
     
 </p>
 
-___
+#
 
-### 🧰 Programming Languages and Tools
-    
+### 🤖 Programming Languages and Tools
+
+<a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-<a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
-<a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/></a>
 <a href="https://www.terraform.io/"><img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/></a>
+<a href="https://hadoop.apache.org/"><img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg"/></a>
+<a href="https://spark.apache.org/"><img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg"/></a>
+<a href="https://docs.pytest.org/en/8.0.x/"><img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg"/></a>
+<a href="https://about.codecov.io//"><img align="left" alt="Codecov" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/codecov/codecov-plain.svg"/></a>
+<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg"/></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+<a href="https://about.gitlab.com/"><img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg"/></a>
 <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+<a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
 <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
-<a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/></a>
+<a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
+<a href="https://www.kaggle.com/"><img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg"/></a>
+<a href="https://www.atlassian.com/software/confluence"><img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/confluence/confluence-original.svg"/></a>
 
 <br>
     
 #
 
-### 🛒 My Solutions Shelf
+### 🛒 My Open Source Projects
 
-One of the things I love is to contribute with the open source community. A few time ago, I decided to dedicate a good part of my time for create a kind of "solutions shelf" with projects that I really think that could be useful for the data community. This process was made by the creation of logotypes, visual identity and a real transformation on the projects to turn everything more friendly and easy to use. Some of the projects of this shelf can be found below.
+If I would define me in one sentence, I would say I'm just a curious soul living in this big world and trying to share good things with others.
+With that in mind, I'm really excited to share with you my open source projects built to help the community. So, if you are:
 
-<a href="https://datadelivery.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/datadelivery/blob/main/docs/assets/imgs/logo-with-text.png?raw=true" alt="datadelivery-icon" align="left" width="145px"></a>
-<a href="https://terraglue.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="120px"></a>
-<a href="https://sparksnake.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/sparksnake/blob/main/docs/assets/imgs/logo-with-text.png?raw=true" alt="sparksnake-icon" align="left" width="137px"></a>
-<a href="https://pandoratemplate.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-logo.png?raw=true" alt="pandora-icon" align="left" width="120px"></a>
-<a href="https://cloudgeass.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="135px"></a>
+- Trying to improve your knowledge on AWS services
+- Trying to find some Python packages that can make your job easier
+- Trying to call a Terraform module to deploy AWS services on your own
+- Or even trying to learn a new code basis to improve the way you develop your own projects
 
+Maybe you are in the right place! Check it out!
+
+<a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
+<a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
+<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
+<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
+<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
+<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
+<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
