@@ -86,6 +86,10 @@ With that in mind, I'm really excited to share with you my open source projects 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 #
 
@@ -114,35 +118,35 @@ With that in mind, I'm really excited to share with you my open source projects 
   <p align="left">
 
   <a href="https://github.com/ThiagoPanini/pynvest">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=jolly&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/pynvest-tools">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=jolly&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/datadelivery">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=jolly&hide_border=true" alt="datadelivery"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=shades-of-purple&hide_border=true" alt="datadelivery"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/terraglue">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=jolly&hide_border=true" alt="terraglue"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=shades-of-purple&hide_border=true" alt="terraglue"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/sparksnake">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=jolly&hide_border=true" alt="sparksnake"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=shades-of-purple&hide_border=true" alt="sparksnake"/>
   </a>  
 
   <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=jolly&hide_border=true" alt="cloudgeass"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=shades-of-purple&hide_border=true" alt="cloudgeass"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/pandora">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=jolly&hide_border=true" alt="pandora"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=shades-of-purple&hide_border=true" alt="pandora"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=jolly&hide_border=true" alt="nbaflow"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=shades-of-purple&hide_border=true" alt="nbaflow"/>
   </a>
        
   </p>
