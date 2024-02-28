@@ -2,7 +2,7 @@
   
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=B252D0&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=6721EF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
 </p>
 
 In this page I will share with you a lot of good things, from personal thoughts to useful projects. Take a seat and enjoy it!
@@ -10,23 +10,23 @@ In this page I will share with you a lot of good things, from personal thoughts 
 <p align="left">
   
   <a href="https://www.linkedin.com/in/thiago-panini/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=542DB5&color=6721EF" target="_blank">
   </a> 
   
   <a href="https://panini.hashnode.dev/">
-    <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=1836B4&color=1E40DB&style=for-the-badge"
+    <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=542DB5&color=6721EF&style=for-the-badge"
   </a>
   
   <a href="https://github.com/ThiagoPanini?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiagoPanini?color=673FCF&labelColor=542DB5&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiagoPanini?color=6721EF&labelColor=542DB5&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ThiagoPanini?labelColor=9C2FA1&color=B437B9&style=for-the-badge&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ThiagoPanini?labelColor=542DB5&color=6721EF&style=for-the-badge&logo=star"/>
   </a>
   
   <a href="https://www.itau.com.br/">
-    <img alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=E1017C&color=FE209B&style=for-the-badge"
+    <img alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=542DB5&color=6721EF&style=for-the-badge"
   </a>
     
 </p>
@@ -56,28 +56,21 @@ In this page I will share with you a lot of good things, from personal thoughts 
     
 #
 
-### 🛒 My Open Source Projects
+### 🤝 My Open Source Projects
 
 If I would define me in one sentence, I would say I'm just a curious soul living in this big world and trying to share good things with others.
-With that in mind, I'm really excited to share with you my open source projects built to help the community. So, if you are:
+With that in mind, I'm really excited to share with you my open source projects built to help the community. There are some real good stuff, from Python packages from Terraform modules. Check it out!
 
-- Trying to improve your knowledge on AWS services
-- Trying to find some Python packages that can make your job easier
-- Trying to call a Terraform module to deploy AWS services on your own
-- Or even trying to learn a new code basis to improve the way you develop your own projects
+<p align="left">
+  <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
+  <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
+  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
+  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
+  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
+  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
+  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
+</p>
 
-Maybe you are in the right place! Check it out!
-
-<a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
-<a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
-<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
-<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
-<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
-<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
-<a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -117,51 +110,45 @@ Maybe you are in the right place! Check it out!
 
 #
   
-<details open>
-  <summary><h3>📦 Main Repos</h3></summary>
+### 📦 Main GitHub Repositories
   <p align="left">
+
+  <a href="https://github.com/ThiagoPanini/pynvest">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=jolly&hide_border=true" alt="pynvest"/>
+  </a>
+  
+  <a href="https://github.com/ThiagoPanini/pynvest-tools">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=jolly&hide_border=true" alt="pynvest"/>
+  </a>
   
   <a href="https://github.com/ThiagoPanini/datadelivery">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=tokyonight&hide_border=true" alt="datadelivery"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=jolly&hide_border=true" alt="datadelivery"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/terraglue">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=tokyonight&hide_border=true" alt="terraglue"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=jolly&hide_border=true" alt="terraglue"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/sparksnake">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=tokyonight&hide_border=true" alt="sparksnake"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=jolly&hide_border=true" alt="sparksnake"/>
   </a>  
+
+  <a href="https://github.com/ThiagoPanini/cloudgeass">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=jolly&hide_border=true" alt="cloudgeass"/>
+  </a>
   
   <a href="https://github.com/ThiagoPanini/pandora">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=tokyonight&hide_border=true" alt="pandora"/>
-  </a>
-    
-  <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=jolly&hide_border=true" alt="pandora"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=tokyonight&hide_border=true" alt="nbaflow"/>
-  </a>
-
-  <a href="https://github.com/ThiagoPanini/jaiminho">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=jaiminho&theme=tokyonight&hide_border=true" alt="jaiminho"/>
-  </a>
-
-  <a href="https://github.com/ThiagoPanini/xplotter">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=xplotter&theme=tokyonight&hide_border=true" alt="xplotter"/>
-  </a>
-
-  <a href="https://github.com/ThiagoPanini/pynvest">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=tokyonight&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=jolly&hide_border=true" alt="nbaflow"/>
   </a>
        
   </p>
   
   <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-</details>
   
 #
     
