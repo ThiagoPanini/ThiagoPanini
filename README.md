@@ -153,11 +153,9 @@ With that in mind, I'm really excited to share with you my open source projects 
   
   <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-  
 #
     
-<details open>
-  <summary><h3>🤔 Curious Things About Me</h3></summary>
+### 🤔 Some Things You Probably Don't Know About Me
   
   - ✍️ I have a personal blog called [panini-tech-lab](https://panini.hashnode.dev/) where I write about Linux, Hadoop, Hive, Spark and other things
   - 💪 I became an AWS Community Builder in 2023
@@ -172,15 +170,15 @@ With that in mind, I'm really excited to share with you my open source projects 
     - Shingeki no Kyojin
     - Full Metal Alchemist
     - Darker than Black
+    - _In fact I'm currently in love with the seinen style (Vagabond, Vinland Saga, Berserk)_
 
-</details>
     
 #
 
-<details open>
-  <summary><h3>📽️ YouTube Videos that I Participated</h3></summary>
-  
-  I don't have a YouTube channel, but I recorded some videos in the past. Check it out:
+### 📽️ Me in the Media
+
+Well, I'm not a famous person at all, but let's say that I had already done some special partnerships with special people.
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Itau DS Meetup: Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS](https://ytcards.demolab.com/?id=rdphV7WeTdc&title=Itau+DS+Meetup+-+Utilizando+Terraform+Para+Aprimorar+o+Aprendizado+em+Servicos+de+Analytics+na+AWS&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Itau DS Meetup - Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS")](https://www.youtube.com/watch?v=rdphV7WeTdc&t=2s&ab_channel=Ita%C3%BA)
@@ -190,23 +188,22 @@ With that in mind, I'm really excited to share with you my open source projects 
       
 #
     
-<details open>
-  <summary><h3>📊 GitHub Stats</h3></summary>
+### 📊 GitHub Stats
    
-  <h3>💻 Profile Stats and 🔥 Streak</h3>
-  <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
-  <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="165px"/></a>
-  <br/>
+#### 💻 Profile Stats and 🔥 Streak
+<img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
+<img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="165px"/></a>
+<br/>
+
+#### 💪 Contribution Graph (Last 30d)
+<img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
+<br/>
+
+#### 🦾 Contribution Graph (Last Year)
+<img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
+<br>
   
-  <h3>💪 Contribution Graph (Last 30d)</h3>
-  <img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
-  <br/>
-  
-  <h3>🦾 Contribution Graph (Last Year)</h3>
-  <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
-  <br>
-  
-  <h3>⚡ Recent Activity</h3>
+### ⚡ Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
