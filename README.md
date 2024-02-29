@@ -2,7 +2,7 @@
   
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=6721EF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
 </p>
 
 In this page I will share with you a lot of good things, from personal thoughts to useful projects. Take a seat and enjoy it!
@@ -10,23 +10,23 @@ In this page I will share with you a lot of good things, from personal thoughts 
 <p align="left">
   
   <a href="https://www.linkedin.com/in/thiago-panini/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=542DB5&color=6721EF" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=6721EF&color=6721EF" target="_blank">
   </a> 
   
   <a href="https://panini.hashnode.dev/">
-    <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=542DB5&color=6721EF&style=for-the-badge"
+    <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=6721EF&color=6721EF&style=for-the-badge"
   </a>
   
   <a href="https://github.com/ThiagoPanini?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiagoPanini?color=6721EF&labelColor=542DB5&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiagoPanini?labelColor=6721EF&color=6721EF&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ThiagoPanini?labelColor=542DB5&color=6721EF&style=for-the-badge&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ThiagoPanini?labelColor=6721EF&color=6721EF&style=for-the-badge&logo=star"/>
   </a>
   
   <a href="https://www.itau.com.br/">
-    <img alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=542DB5&color=6721EF&style=for-the-badge"
+    <img alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=6721EF&color=6721EF&style=for-the-badge"
   </a>
     
 </p>
@@ -59,17 +59,21 @@ In this page I will share with you a lot of good things, from personal thoughts 
 ### 🤝 My Open Source Projects
 
 If I would define me in one sentence, I would say I'm just a curious soul living in this big world and trying to share good things with others.
-With that in mind, I'm really excited to share with you my open source projects built to help the community. There are some real good stuff, from Python packages from Terraform modules. Check it out!
+So, I'm really excited to share with you all my open source projects that I built in order to help others and to contribute with the open source community.
 
-<p align="left">
+👇 Click on the project image to be redirected to its documentation page.
+
+<div align="left">
   <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
   <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
   <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
   <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
+</div>
+<div align="left">
   <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
   <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
   <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
-</p>
+</div>
 
 <br>
 <br>
@@ -86,14 +90,13 @@ With that in mind, I'm really excited to share with you my open source projects 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 #
 
 ### 🖊️ Certificates
+
+As a lifelong learner, I'm always trying to challenge myself to reach something higher through certifications. Here's some badges I had already earned in this journey.
 
 <a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
 
@@ -115,43 +118,59 @@ With that in mind, I'm really excited to share with you my open source projects 
 #
   
 ### 📦 Main GitHub Repositories
-  <p align="left">
+
+<p align="left">
 
   <a href="https://github.com/ThiagoPanini/pynvest">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=tokyonight&hide_border=true" alt="pynvest"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/pynvest-tools">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=tokyonight&hide_border=true" alt="pynvest"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/datadelivery">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=shades-of-purple&hide_border=true" alt="datadelivery"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=tokyonight&hide_border=true" alt="datadelivery"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/terraglue">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=shades-of-purple&hide_border=true" alt="terraglue"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=tokyonight&hide_border=true" alt="terraglue"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/sparksnake">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=shades-of-purple&hide_border=true" alt="sparksnake"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=tokyonight&hide_border=true" alt="sparksnake"/>
   </a>  
 
   <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=shades-of-purple&hide_border=true" alt="cloudgeass"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/pandora">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=shades-of-purple&hide_border=true" alt="pandora"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=tokyonight&hide_border=true" alt="pandora"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=shades-of-purple&hide_border=true" alt="nbaflow"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=tokyonight&hide_border=true" alt="nbaflow"/>
   </a>
        
-  </p>
+</p>
   
   <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+#
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/></a>  
+  <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="160px"/></a>
+</p>
+
+<p align="left">
+  <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true" height="232px"/></a>
+</p>
+
+<br>
 
 #
     
@@ -171,8 +190,7 @@ With that in mind, I'm really excited to share with you my open source projects 
     - Full Metal Alchemist
     - Darker than Black
     - _In fact I'm currently in love with the seinen style (Vagabond, Vinland Saga, Berserk)_
-
-    
+   
 #
 
 ### 📽️ Me in the Media
@@ -181,29 +199,16 @@ Well, I'm not a famous person at all, but let's say that I had already done some
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
+[![Rocketseat - Live | Workshop de Carreira em Python](https://ytcards.demolab.com/?id=0pMfPtsTbbs&title=Rocketseat+-+Um+Mercado+de+Oportunidades+|+Workshop+de+Carreira+em+Python&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4080 "Rocketseat - Live | Workshop de Carreira em Python")](https://www.youtube.com/watch?v=0pMfPtsTbbs&ab_channel=Rocketseat)
 [![Itau DS Meetup: Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS](https://ytcards.demolab.com/?id=rdphV7WeTdc&title=Itau+DS+Meetup+-+Utilizando+Terraform+Para+Aprimorar+o+Aprendizado+em+Servicos+de+Analytics+na+AWS&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Itau DS Meetup - Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS")](https://www.youtube.com/watch?v=rdphV7WeTdc&t=2s&ab_channel=Ita%C3%BA)
 [![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
 [![xplotter por Thiago Panini](https://ytcards.demolab.com/?id=mu82n6Vf9sw&title=xplotter+por+Thiago+Panini&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Chego a tremer só de pensar em plotar: xplotter (Thiago Panini)")](https://www.youtube.com/watch?v=mu82n6Vf9sw)
 <!-- END YOUTUBE-CARDS -->
       
 #
-    
-### 📊 GitHub Stats
-   
-#### 💻 Profile Stats and 🔥 Streak
-<img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
-<img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="165px"/></a>
-<br/>
-
-#### 💪 Contribution Graph (Last 30d)
-<img alt="ThiagoPanini's Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=ThiagoPanini&theme=tokyo-night&hide_border=true"/></a>
-<br/>
-
-#### 🦾 Contribution Graph (Last Year)
-<img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true"/></a>
-<br>
   
-### ⚡ Recent Activity
+### ⚡ GitHub Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
@@ -226,8 +231,7 @@ Last Updated: Tuesday, February 27th, 2024, 11:19:28 PM
 
 #
 
-<details>
-  <summary><h3>🔗 References and Links</h3></summary>
+### 🔗 References and Links</h3></summary>
    
   - Devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
   - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for the writing on the beginning of this page
@@ -236,7 +240,3 @@ Last Updated: Tuesday, February 27th, 2024, 11:19:28 PM
   - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) for YouTube cards
   - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for profile stats and GitHub activity
   - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) for automating recent activity on GitHub
-  
-</details>
-
-  
