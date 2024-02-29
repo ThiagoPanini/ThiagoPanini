@@ -90,7 +90,8 @@ So, I'm really excited to share with you all my open source projects that I buil
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 #
 
@@ -122,35 +123,35 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
 <p align="left">
 
   <a href="https://github.com/ThiagoPanini/pynvest">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=tokyonight&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/pynvest-tools">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=tokyonight&hide_border=true" alt="pynvest"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/datadelivery">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=tokyonight&hide_border=true" alt="datadelivery"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=shades-of-purple&hide_border=true" alt="datadelivery"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/terraglue">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=tokyonight&hide_border=true" alt="terraglue"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=shades-of-purple&hide_border=true" alt="terraglue"/>
   </a>
     
   <a href="https://github.com/ThiagoPanini/sparksnake">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=tokyonight&hide_border=true" alt="sparksnake"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=shades-of-purple&hide_border=true" alt="sparksnake"/>
   </a>  
 
   <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=tokyonight&hide_border=true" alt="cloudgeass"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=shades-of-purple&hide_border=true" alt="cloudgeass"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini/pandora">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=tokyonight&hide_border=true" alt="pandora"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=shades-of-purple&hide_border=true" alt="pandora"/>
   </a>
 
   <a href="https://github.com/ThiagoPanini/nbaflow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=tokyonight&hide_border=true" alt="nbaflow"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=shades-of-purple&hide_border=true" alt="nbaflow"/>
   </a>
        
 </p>
@@ -162,15 +163,13 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/></a>  
-  <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=tokyonight&hide_border=true" height="160px"/></a>
+  <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=shades-of-purple&hide_border=true" height="160px"/></a>  
+  <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=shades-of-purple&hide_border=true" height="160px"/></a>
 </p>
 
 <p align="left">
-  <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=tokyonight&hide_border=true" height="232px"/></a>
+  <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=shades_of_purple&hide_border=true" height="232px"/></a>
 </p>
-
-<br>
 
 #
     
