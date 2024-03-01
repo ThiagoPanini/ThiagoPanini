@@ -210,15 +210,15 @@ Well, I'm not a famous person at all, but let's say that I had already done some
 ### ⚡ GitHub Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-2. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
-3. ⬆️ Pushed 2 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+1. ⬆️ Pushed 5 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+2. 🎉 Merged PR [#12](https://github.com/ThiagoPanini/pynvest/pull/12) on [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
+3. 👍 Approved change [#12](https://github.com/ThiagoPanini/pynvest/pull/12#pullrequestreview-1909934173) on [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
 4. ⬆️ Pushed 1 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
-5. ⬆️ Pushed 3 commits to [ThiagoPanini/pynvest-tools](https://github.com/ThiagoPanini/pynvest-tools)<br>
+5. ⬆️ Pushed 3 commits to [ThiagoPanini/pynvest](https://github.com/ThiagoPanini/pynvest)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 28th, 2024, 11:18:00 PM
+Last Updated: Thursday, February 29th, 2024, 11:23:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
