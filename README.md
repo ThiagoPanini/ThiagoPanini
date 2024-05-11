@@ -2,10 +2,10 @@
   
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+lifelong+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
 </p>
 
-In this page I will share with you a lot of good things, from personal thoughts to useful projects. Take a seat and enjoy it!
+Here you will see a lot of good stuff! I hope you enjoy it!
 
 <p align="left">
   
@@ -31,92 +31,84 @@ In this page I will share with you a lot of good things, from personal thoughts 
     
 </p>
 
-#
+___
 
 ### 🤖 Programming Languages and Tools
 
-<a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></a>
-<a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-<a href="https://www.terraform.io/"><img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/></a>
-<a href="https://hadoop.apache.org/"><img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg"/></a>
-<a href="https://spark.apache.org/"><img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg"/></a>
-<a href="https://docs.pytest.org/en/8.0.x/"><img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg"/></a>
-<a href="https://about.codecov.io//"><img align="left" alt="Codecov" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/codecov/codecov-plain.svg"/></a>
-<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg"/></a>
-<a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
-<a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
-<a href="https://about.gitlab.com/"><img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg"/></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
-<a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
-<a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
-<a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
-<a href="https://www.kaggle.com/"><img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg"/></a>
-
-<br>
-    
-#
+<table align="center">
+  <th></th>
+  <tr>
+    <td align="center">
+      <a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></a>
+      <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+      <a href="https://www.terraform.io/"><img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/></a>
+      <a href="https://hadoop.apache.org/"><img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg"/></a>
+      <a href="https://spark.apache.org/"><img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg"/></a>
+      <a href="https://docs.pytest.org/en/8.0.x/"><img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg"/></a>
+      <a href="https://about.codecov.io//"><img align="left" alt="Codecov" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/codecov/codecov-plain.svg"/></a>
+      <a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg"/></a>
+      <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
+      <a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+      <a href="https://about.gitlab.com/"><img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg"/></a>
+      <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+      <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
+      <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
+      <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
+      <a href="https://www.kaggle.com/"><img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg"/></a>
+    </td>
+  </tr>
+</table>
 
 ### 🤝 My Open Source Projects
 
 If I would define me in one sentence, I would say I'm just a curious soul living in this big world and trying to share good things with others.
 So, I'm really excited to share with you all my open source projects that I built in order to help others and to contribute with the open source community.
 
-👇 Click on the project image to be redirected to its documentation page.
+👇 Click to see more.
 
-<div align="left">
-  <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
-  <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
-  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
-  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
-</div>
-<div align="left">
-  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
-  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
-  <a href=""><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-#
+<table align="center">
+  <th>Python Packages</th>
+  <tr>
+    <td align="center">
+      <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
+      <a href="https://sparksnake.readthedocs.io/en/latest/?badge=latest"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
+      <a href="https://cloudgeass.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
+    </td>
+  </tr>
+<th>Terraform Modules</th>
+  <tr>
+    <td align="center">
+      <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
+      <a href="https://datadelivery.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
+      <a href="https://terraglue.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
+    </td>
+  </tr>
+<th>Others</th>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ThiagoPanini/panini-tech-stories"><img src="https://github.com/ThiagoPanini/panini-tech-stories/blob/main/_assets/logo.png?raw=true" alt="pandora-icon" align="left" width="168px"></a>
+      <a href="https://github.com/ThiagoPanini/pandora"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
+    </td>
+  </tr>
+</table>
 
 ### 🖊️ Certificates
 
 As a lifelong learner, I'm always trying to challenge myself to reach something higher through certifications. Here's some badges I had already earned in this journey.
 
-<a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
-
-<a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
-
-<a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
-
-<a href="https://www.credly.com/badges/8e6de88a-26c1-4c4f-ac54-7a0d7d97fe10/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100px">
-
-<a href="https://www.credly.com/badges/e5949fce-1c22-4bab-8f45-dff46640d228/public_url"><img src="https://i.imgur.com/wvK1S2e.png" alt="AWS Data Lab Participant Badge" align="left" width="100px">
-
-<a href="https://credentials.databricks.com/f1bb0675-099c-491c-a49a-79d441e44cfa"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59187797" alt="Databricks Spark Developer Associate Badge" align="left" width="100px">
-
-<br>
-<br>
-<br>
-<br>
-
-#
+<table align="center">
+  <th></th>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/8e6de88a-26c1-4c4f-ac54-7a0d7d97fe10/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100  px">
+      <a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/e5949fce-1c22-4bab-8f45-dff46640d228/public_url"><img src="https://i.imgur.com/wvK1S2e.png" alt="AWS Data Lab Participant Badge" align="left" width="100px">
+      <a href="https://credentials.databricks.com/f1bb0675-099c-491c-a49a-79d441e44cfa"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59187797" alt="Databricks Spark Developer Associate Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
+    </td>
+  </tr>
+</table>
   
 ### 📦 Main GitHub Repositories
 
