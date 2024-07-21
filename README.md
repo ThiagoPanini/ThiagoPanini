@@ -71,23 +71,23 @@ So, I'm really excited to share with you all my open source projects that I buil
   <tr>
     <td align="center">
       <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
-      <a href="https://sparksnake.readthedocs.io/en/latest/?badge=latest"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-wip.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
-      <a href="https://cloudgeass.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-wip.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
+      <a href="https://sparksnake.readthedocs.io/en/latest/?badge=latest"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-logo.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
+      <a href="https://cloudgeass.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
     </td>
   </tr>
 <th>Terraform Modules</th>
   <tr>
     <td align="center">
       <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
-      <a href="https://datadelivery.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-wip.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
-      <a href="https://terraglue.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-wip.png?raw=true" alt="terraglue-icon" align="left" width="138px"></a>
+      <a href="https://datadelivery.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-logo.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
+      <a href="https://terraglue.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="132px"></a>
     </td>
   </tr>
 <th>Others</th>
   <tr>
     <td align="center">
       <a href="https://github.com/ThiagoPanini/panini-tech-stories"><img src="https://github.com/ThiagoPanini/panini-tech-stories/blob/main/_assets/logo.png?raw=true" alt="pandora-icon" align="left" width="168px"></a>
-      <a href="https://github.com/ThiagoPanini/pandora"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-wip.png?raw=true" alt="pandora-icon" align="left" width="138px"></a>
+      <a href="https://github.com/ThiagoPanini/pandora"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/pandora-logo.png?raw=true" alt="pandora-icon" align="left" width="128px"></a>
     </td>
   </tr>
 </table>
