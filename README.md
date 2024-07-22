@@ -72,7 +72,7 @@ So, I'm really excited to share with you all my open source projects that I buil
     <td align="center">
       <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest/blob/main/docs/assets/imgs/logo/logo-com-nome.png?raw=true" alt="pynvest-icon" align="left" width="120px"></a>
       <a href="https://sparksnake.readthedocs.io/en/latest/?badge=latest"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/sparksnake-logo.png?raw=true" alt="sparksnake-icon" align="left" width="168px"></a>
-      <a href="https://cloudgeass.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/cloudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
+      <a href="https://cloudgeass.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/coudgeass-logo.png?raw=true" alt="cloudgeass-icon" align="left" width="165px"></a>
     </td>
   </tr>
 <th>Terraform Modules</th>
