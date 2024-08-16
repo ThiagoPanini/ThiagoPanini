@@ -79,7 +79,7 @@ So, I'm really excited to share with you all my open source projects that I buil
   <tr>
     <td align="center">
       <a href="https://pynvest.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/pynvest-tools/blob/v0.2.x/docs/imgs/logo/logo.png?raw=true" alt="pynvest-tools-icon" align="left" width="147px"></a>
-      <a href="https://datadelivery.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-logo.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
+      <a href="https://datadelivery.readthedocs.io/pt/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/datadelivery-logo.png?raw=true" alt="datadelivery-icon" align="left" width="168px"></a>
       <a href="https://terraglue.readthedocs.io/en/latest/"><img src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/terraglue-logo.png?raw=true" alt="terraglue-icon" align="left" width="132px"></a>
     </td>
   </tr>
