@@ -170,7 +170,7 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
   - ☁️ I went to [AWS re:Invent 2022](https://reinvent.awsevents.com/) (Vegas, baby!)
   - 🎤 I was an AWS São Paulo Summit 2024 speaker and here are the details:
     - [Marilia Brito](https://www.linkedin.com/in/mariliabrito/), a Technical Training Leader at AWS, just invited me
-    - My talk aws about my open source projects as an Analytics Engineer
+    - My talk was about my open source projects as an Analytics Engineer
     - According to Marilia, I just broke all records from Summit's Training & Certification lounge
     - My talk reached and approval rate of 4.85 and an incredible 577% of capacity (biggest approval rate and crowd from T&C history!)
   - 🖋️ I wrote an [article about Analytics Engineer career at Itaú Tech Medium](https://medium.com/itautech/engenharia-de-analytics-conhe%C3%A7a-a-carreira-e-seu-papel-no-ita%C3%BA-9f3f46dd9faa)
