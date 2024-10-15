@@ -173,7 +173,7 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
     - My talk aws about my open source projects as an Analytics Engineer
     - According to Marilia, I just broke all records from Summit's Training & Certification lounge
     - My talk reached and approval rate of 4.85 and an incredible 577% of capacity (biggest approval rate and crowd from T&C history!)
-  - 🖋️ I wrote an article about Analytics Engineer career
+  - 🖋️ I wrote an [article about Analytics Engineer career at Itaú Tech Medium](https://medium.com/itautech/engenharia-de-analytics-conhe%C3%A7a-a-carreira-e-seu-papel-no-ita%C3%BA-9f3f46dd9faa)
   - 🤖 I'm a "notebooks expert" at [Kaggle](https://www.kaggle.com/thiagopanini)
   - ⚽ I love soccer and my team is Corinthians
   - 🤯 I like _mind blowing_ movies. My top 3 are:
