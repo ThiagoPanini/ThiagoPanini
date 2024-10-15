@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+lifelong+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
 </p>
 
-Here you will see a lot of good stuff! I hope you enjoy it!
-
 <p align="left">
   
   <a href="https://www.linkedin.com/in/thiago-panini/" target="_blank">
@@ -104,7 +102,7 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
       <a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
       <a href="https://www.credly.com/badges/e5949fce-1c22-4bab-8f45-dff46640d228/public_url"><img src="https://i.imgur.com/wvK1S2e.png" alt="AWS Data Lab Participant Badge" align="left" width="100px">
       <a href="https://credentials.databricks.com/f1bb0675-099c-491c-a49a-79d441e44cfa"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59187797" alt="Databricks Spark Developer Associate Badge" align="left" width="100px">
-      <a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/110x110/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
       <a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
     </td>
   </tr>
@@ -168,11 +166,17 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
 ### 🤔 Some Things You Probably Don't Know About Me
   
   - ✍️ I have a personal blog called [panini-tech-lab](https://panini.hashnode.dev/) where I write about Linux, Hadoop, Hive, Spark and other things
-  - 💪 I became an AWS Community Builder in 2023
+  - 💪 I became an AWS Community Builder in 2023 and I'm currently in my second year in the program
   - ☁️ I went to [AWS re:Invent 2022](https://reinvent.awsevents.com/) (Vegas, baby!)
+  - 🎤 I was an AWS São Paulo Summit 2024 speaker and here are the details:
+    - [Marilia Brito](https://www.linkedin.com/in/mariliabrito/), a Technical Training Leader at AWS, just invited me
+    - My talk aws about my open source projects as an Analytics Engineer
+    - According to Marilia, I just broke all records from Summit's Training & Certification lounge
+    - My talk reached and approval rate of 4.85 and an incredible 577% of capacity (biggest approval rate and crowd from T&C history!)
+  - 🖋️ I wrote an article about Analytics Engineer career
   - 🤖 I'm a "notebooks expert" at [Kaggle](https://www.kaggle.com/thiagopanini)
   - ⚽ I love soccer and my team is Corinthians
-  - 🤯 I like _mind blowing_ movies. My top 3 are
+  - 🤯 I like _mind blowing_ movies. My top 3 are:
     - Donnie Darko
     - Inception
     - Shutter Island
@@ -188,6 +192,17 @@ As a lifelong learner, I'm always trying to challenge myself to reach something 
 
 Well, I'm not a famous person at all, but let's say that I had already done some special partnerships with special people.
 
+<img align="left" alt="Spotify Icon" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/pkill37/fix-spotify-icon/refs/heads/master/src/images/spotify_icon.ico"/>
+
+#### Spotify Podcasts
+
+- [Data Hackers #88 - Data and Analytics Engineer at Itaú](https://open.spotify.com/episode/4m5u3g7l9Q8Nqc5TndBwnZ?_authfailed=1)
+
+___
+
+<img align="left" alt="YouTube Icon" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png"/>
+
+#### YouTube Meetups and Lives
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
