@@ -1,35 +1,124 @@
-# 👋 Hi everyone and welcome to my GitHub profile!
+# 👋 Welcome to my GitHub profile!
   
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=836FFF&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+lifelong+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=6781F7&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+lifelong+learner;Contributing+with+open+source+community" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
   
   <a href="https://www.linkedin.com/in/thiago-panini/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=6721EF&color=6721EF" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=0246F3&color=0246F3" target="_blank">
   </a> 
   
   <a href="https://panini.hashnode.dev/">
-    <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=6721EF&color=6721EF&style=for-the-badge"
+    <img alt="Hashnode blog" title="Hashnode blog" src="https://custom-icon-badges.demolab.com/static/v1?logo=hashnode-blog&label=panini-tech-lab&message=blog&labelColor=0246F3&color=0246F3&style=for-the-badge"
   </a>
   
   <a href="https://github.com/ThiagoPanini?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiagoPanini?labelColor=6721EF&color=6721EF&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiagoPanini?labelColor=0246F3&color=0246F3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ThiagoPanini?labelColor=6721EF&color=6721EF&style=for-the-badge&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ThiagoPanini?labelColor=0246F3&color=0246F3&style=for-the-badge&logo=star"/>
   </a>
   
   <a href="https://www.itau.com.br/">
-    <img alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=6721EF&color=6721EF&style=for-the-badge"
+    <img alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=0246F3&color=0246F3&style=for-the-badge"
   </a>
     
 </p>
 
+<p align="left">
+
+  <a href="https://github.com/ThiagoPanini/pynvest">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=transparent&hide_border=false" alt="pynvest"/>
+  </a>
+  
+  <a href="https://github.com/ThiagoPanini/pynvest-tools">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=transparent&hide_border=false" alt="pynvest"/>
+  </a>
+  
+  <a href="https://github.com/ThiagoPanini/datadelivery">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=transparent&hide_border=false" alt="datadelivery"/>
+  </a>
+    
+  <a href="https://github.com/ThiagoPanini/terraglue">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=transparent&hide_border=false" alt="terraglue"/>
+  </a>
+    
+  <a href="https://github.com/ThiagoPanini/sparksnake">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=transparent&hide_border=false" alt="sparksnake"/>
+  </a>  
+
+  <a href="https://github.com/ThiagoPanini/cloudgeass">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=transparent&hide_border=false" alt="cloudgeass"/>
+  </a>
+       
+</p>
+  
+  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click to see more-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+#
+
+### ✨ Some special things that I've done
+
+- 🎤 I was an [AWS re:Invent](https://reinvent.awsevents.com/) 2024 speaker
+    - I was selected by the AWS Community Builder program to talk about the Analytics Engineering career
+    - It was not my first time at AWS re:Invent (I went there in 2022, but not as a speaker)
+    - I also made some demos about open source projects in the re:Invent expo
+- 📢 I was an [AWS São Paulo Summit 2024 speaker](https://aws.amazon.com/pt/events/summits/sao-paulo/)
+    - I was invited by [Marilia Brito](https://www.linkedin.com/in/mariliabrito/), a Technical Trainig Leader at AWS
+    - There, I presented some of my open source projects (you can check them below)
+    - My talk just broke all records from AWS Summit's Training and Certification lounge with 4.85 approval rate and over 577% capacity
+    - It was the biggest approval rate and crowd participation from all loung's history
+- 🖋️ I wrote an [article about Analytics Engineer career at Itaú Tech Medium](https://medium.com/itautech/engenharia-de-analytics-conhe%C3%A7a-a-carreira-e-seu-papel-no-ita%C3%BA-9f3f46dd9faa)
+- ✍️ I created the [panini-tech-lab](https://panini.hashnode.dev/) blog where I write about Linux, Hadoop, Hive, Spark and other things
+- 🤖 I'm a "notebooks expert" at [Kaggle](https://www.kaggle.com/thiagopanini)
+
+#
+
+### 🔎 Some personal things to get to know me better
+
+- ⚽ I love soccer and my team is Corinthians
+- 🤯 I like _mind blowing_ movies. My top 3 are:
+  - Donnie Darko
+  - Inception
+  - Shutter Island
+- 🏯 I'm a huge anime fan. It was very difficult to set a top 3, but here they are:
+  - Shingeki no Kyojin
+  - Full Metal Alchemist
+  - Darker than Black
+  - _In fact I'm currently in love with the seinen style (Vagabond, Vinland Saga, Berserk)_
+
+#
+
+### 📽️ Me in the Media
+
+Well, I'm not a famous person at all, but let's say that I had already done some special partnerships with special people.
+
+<img align="left" alt="Spotify Icon" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/pkill37/fix-spotify-icon/refs/heads/master/src/images/spotify_icon.ico"/>
+
+#### Spotify Podcasts
+
+- [Data Hackers #88 - Data and Analytics Engineer at Itaú](https://open.spotify.com/episode/4m5u3g7l9Q8Nqc5TndBwnZ?_authfailed=1)
+
+<img align="left" alt="YouTube Icon" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png"/>
+
+#### YouTube Content
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![AWS re:Invent 2024 - How an analytics engineer uses AWS in a financial company (DEV212)](https://ytcards.demolab.com/?id=UHvwjmhFKUw&title=AWS+re:Invent+2024+-+How+an+analytics+engineer+uses+AWS+in+a+financial+company+(DEV212)&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=939 "AWS re:Invent 2024 - How an analytics engineer uses AWS in a financial company (DEV212)")](https://www.youtube.com/watch?v=UHvwjmhFKUw)
+[![Itau Data Meetup: Engenharia de Dados e Engenharia de Analytics](https://ytcards.demolab.com/?id=fxG8l-TyJGo&title=Itau+Data+Meetup+-+Carreiras+de+Engenharia+de+Dados+e+Engenharia+de+Analytics&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=6840 "Itau Data Meetup - Carreiras de Engenharia de Dados e Engenharia de Analytics")](https://www.youtube.com/watch?v=fxG8l-TyJGo&ab_channel=Ita%C3%BA)
+[![Rocketseat - Live | Workshop de Carreira em Python](https://ytcards.demolab.com/?id=0pMfPtsTbbs&title=Rocketseat+-+Um+Mercado+de+Oportunidades+|+Workshop+de+Carreira+em+Python&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4080 "Rocketseat - Live | Workshop de Carreira em Python")](https://www.youtube.com/watch?v=0pMfPtsTbbs&ab_channel=Rocketseat)
+[![Itau Data Meetup: Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS](https://ytcards.demolab.com/?id=rdphV7WeTdc&title=Itau+Data+Meetup+-+Utilizando+Terraform+Para+Aprimorar+o+Aprendizado+em+Servicos+de+Analytics+na+AWS&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=5100 "Itau Data Meetup - Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS")](https://www.youtube.com/watch?v=rdphV7WeTdc&t=2s&ab_channel=Ita%C3%BA)
+[![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1080 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
+[![xplotter por Thiago Panini](https://ytcards.demolab.com/?id=mu82n6Vf9sw&title=xplotter+por+Thiago+Panini&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=5400 "Chego a tremer só de pensar em plotar: xplotter (Thiago Panini)")](https://www.youtube.com/watch?v=mu82n6Vf9sw)
+<!-- END YOUTUBE-CARDS -->
+
 ___
+
 
 ### 🤖 Programming Languages and Tools
 
@@ -51,7 +140,6 @@ ___
       <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
       <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
       <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
-      <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
       <a href="https://www.kaggle.com/"><img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg"/></a>
     </td>
   </tr>
@@ -90,130 +178,7 @@ So, I'm really excited to share with you all my open source projects that I buil
   </tr>
 </table>
 
-### 🖊️ Certificates
-
-As a lifelong learner, I'm always trying to challenge myself to reach something higher through certifications. Here's some badges I had already earned in this journey.
-
-<table align="center">
-  <th></th>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/8e6de88a-26c1-4c4f-ac54-7a0d7d97fe10/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100  px">
-      <a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
-      <a href="https://www.credly.com/badges/e5949fce-1c22-4bab-8f45-dff46640d228/public_url"><img src="https://i.imgur.com/wvK1S2e.png" alt="AWS Data Lab Participant Badge" align="left" width="100px">
-      <a href="https://credentials.databricks.com/f1bb0675-099c-491c-a49a-79d441e44cfa"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59187797" alt="Databricks Spark Developer Associate Badge" align="left" width="100px">
-      <a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/110x110/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
-      <a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
-    </td>
-  </tr>
-</table>
-  
-### 📦 Main GitHub Repositories
-
-<p align="left">
-
-  <a href="https://github.com/ThiagoPanini/pynvest">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
-  </a>
-  
-  <a href="https://github.com/ThiagoPanini/pynvest-tools">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=shades-of-purple&hide_border=true" alt="pynvest"/>
-  </a>
-  
-  <a href="https://github.com/ThiagoPanini/datadelivery">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=datadelivery&theme=shades-of-purple&hide_border=true" alt="datadelivery"/>
-  </a>
-    
-  <a href="https://github.com/ThiagoPanini/terraglue">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=shades-of-purple&hide_border=true" alt="terraglue"/>
-  </a>
-    
-  <a href="https://github.com/ThiagoPanini/sparksnake">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=shades-of-purple&hide_border=true" alt="sparksnake"/>
-  </a>  
-
-  <a href="https://github.com/ThiagoPanini/cloudgeass">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=shades-of-purple&hide_border=true" alt="cloudgeass"/>
-  </a>
-  
-  <a href="https://github.com/ThiagoPanini/pandora">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pandora&theme=shades-of-purple&hide_border=true" alt="pandora"/>
-  </a>
-
-  <a href="https://github.com/ThiagoPanini/nbaflow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=nbaflow&theme=shades-of-purple&hide_border=true" alt="nbaflow"/>
-  </a>
-       
-</p>
-  
-  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-#
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img alt="ThiagoPanini's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ThiagoPanini&show_icons=true&theme=shades-of-purple&hide_border=true" height="160px"/></a>  
-  <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=ThiagoPanini&theme=shades-of-purple&hide_border=true" height="160px"/></a>
-</p>
-
-<p align="left">
-  <img alt="ThiagoPanini's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoPanini&theme=shades_of_purple&hide_border=true" height="232px"/></a>
-</p>
-
-#
-    
-### 🤔 Some Things You Probably Don't Know About Me
-  
-  - ✍️ I have a personal blog called [panini-tech-lab](https://panini.hashnode.dev/) where I write about Linux, Hadoop, Hive, Spark and other things
-  - 💪 I became an AWS Community Builder in 2023 and I'm currently in my second year in the program
-  - ☁️ I went to [AWS re:Invent 2022](https://reinvent.awsevents.com/) (Vegas, baby!)
-  - 🎤 I was an AWS São Paulo Summit 2024 speaker and here are the details:
-    - [Marilia Brito](https://www.linkedin.com/in/mariliabrito/), a Technical Training Leader at AWS, just invited me
-    - My talk was about my open source projects as an Analytics Engineer
-    - According to Marilia, I just broke all records from Summit's Training & Certification lounge
-    - My talk reached and approval rate of 4.85 and an incredible 577% of capacity (biggest approval rate and crowd from T&C history!)
-  - 🖋️ I wrote an [article about Analytics Engineer career at Itaú Tech Medium](https://medium.com/itautech/engenharia-de-analytics-conhe%C3%A7a-a-carreira-e-seu-papel-no-ita%C3%BA-9f3f46dd9faa)
-  - 🤖 I'm a "notebooks expert" at [Kaggle](https://www.kaggle.com/thiagopanini)
-  - ⚽ I love soccer and my team is Corinthians
-  - 🤯 I like _mind blowing_ movies. My top 3 are:
-    - Donnie Darko
-    - Inception
-    - Shutter Island
-  - 🏯 I'm a huge anime fan. It was very difficult to set a top 3, but here they are:
-    - Shingeki no Kyojin
-    - Full Metal Alchemist
-    - Darker than Black
-    - _In fact I'm currently in love with the seinen style (Vagabond, Vinland Saga, Berserk)_
-   
-#
-
-### 📽️ Me in the Media
-
-Well, I'm not a famous person at all, but let's say that I had already done some special partnerships with special people.
-
-<img align="left" alt="Spotify Icon" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/pkill37/fix-spotify-icon/refs/heads/master/src/images/spotify_icon.ico"/>
-
-#### Spotify Podcasts
-
-- [Data Hackers #88 - Data and Analytics Engineer at Itaú](https://open.spotify.com/episode/4m5u3g7l9Q8Nqc5TndBwnZ?_authfailed=1)
-
-___
-
-<img align="left" alt="YouTube Icon" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png"/>
-
-#### YouTube Meetups and Lives
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-[![Itau Data Meetup: Engenharia de Dados e Engenharia de Analytics](https://ytcards.demolab.com/?id=fxG8l-TyJGo&title=Itau+Data+Meetup+-+Carreiras+de+Engenharia+de+Dados+e+Engenharia+de+Analytics&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=6840 "Itau Data Meetup - Carreiras de Engenharia de Dados e Engenharia de Analytics")](https://www.youtube.com/watch?v=fxG8l-TyJGo&ab_channel=Ita%C3%BA)
-[![Rocketseat - Live | Workshop de Carreira em Python](https://ytcards.demolab.com/?id=0pMfPtsTbbs&title=Rocketseat+-+Um+Mercado+de+Oportunidades+|+Workshop+de+Carreira+em+Python&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4080 "Rocketseat - Live | Workshop de Carreira em Python")](https://www.youtube.com/watch?v=0pMfPtsTbbs&ab_channel=Rocketseat)
-[![Itau Data Meetup: Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS](https://ytcards.demolab.com/?id=rdphV7WeTdc&title=Itau+Data+Meetup+-+Utilizando+Terraform+Para+Aprimorar+o+Aprendizado+em+Servicos+de+Analytics+na+AWS&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=5100 "Itau Data Meetup - Utilizando Terraform para Aprimorar o Aprendizado em Serviços de Analytics na AWS")](https://www.youtube.com/watch?v=rdphV7WeTdc&t=2s&ab_channel=Ita%C3%BA)
-[![#REACT: COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA](https://ytcards.demolab.com/?id=mQ9hffS6Au8&title=COMO+FAZER+UMA+ANALISE+EXPLORATORIA+PERFEITA&lang=eu&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1080 "COMO FAZER UMA ANÁLISE EXPLORATÓRIA PERFEITA")](https://www.youtube.com/watch?v=mQ9hffS6Au8)
-[![xplotter por Thiago Panini](https://ytcards.demolab.com/?id=mu82n6Vf9sw&title=xplotter+por+Thiago+Panini&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=5400 "Chego a tremer só de pensar em plotar: xplotter (Thiago Panini)")](https://www.youtube.com/watch?v=mu82n6Vf9sw)
-<!-- END YOUTUBE-CARDS -->
-      
-#
+#  
   
 ### ⚡ GitHub Recent Activity
   
