@@ -67,7 +67,7 @@
     - I was selected by the AWS Community Builder program to talk about the Analytics Engineering career
     - It was not my first time at AWS re:Invent (I went there in 2022, but not as a speaker)
     - I also made some demos about open source projects in the re:Invent expo
-- 📢 I was an [AWS São Paulo Summit] 2024 speaker(https://aws.amazon.com/pt/events/summits/sao-paulo/)
+- 📢 I was an [AWS São Paulo Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) 2024 speaker
     - I was invited by [Marilia Brito](https://www.linkedin.com/in/mariliabrito/), a Technical Trainig Leader at AWS
     - There, I presented some of my open source projects (you can check them below)
     - My talk just broke all records from AWS Summit's Training and Certification lounge with 4.85 approval rate and over 577% of crowd capacity
