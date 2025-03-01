@@ -183,15 +183,15 @@ So, I'm really excited to share with you all my open source projects that I buil
 ### ⚡ GitHub Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
-1. 📖 Created a wiki page [Home](https://github.com/ThiagoPanini/engineering-golden-case/wiki/Home) on [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
-2. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+1. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+2. 📖 Created a wiki page [Home](https://github.com/ThiagoPanini/engineering-golden-case/wiki/Home) on [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
 3. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
 4. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
-5. 📔 Created the repo [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+5. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 27th, 2025, 11:52:40 PM
+Last Updated: Friday, February 28th, 2025, 11:56:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
