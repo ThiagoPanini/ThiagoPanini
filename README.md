@@ -183,15 +183,15 @@ So, I'm really excited to share with you all my open source projects that I buil
 ### ⚡ GitHub Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-2. 📖 Created a wiki page [Home](https://github.com/ThiagoPanini/engineering-golden-case/wiki/Home) on [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
-3. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
-4. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
-5. ⬆️ Pushed 1 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+1. ⬆️ Pushed 6 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+2. 🎉 Merged PR [#5](https://github.com/ThiagoPanini/tf-modules-showcase/pull/5) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+3. 👍 Approved change [#5](https://github.com/ThiagoPanini/tf-modules-showcase/pull/5#pullrequestreview-2655395202) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+4. ❌ Closed PR [#4](https://github.com/ThiagoPanini/tf-modules-showcase/pull/4) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+5. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 11:54:22 PM
+Last Updated: Monday, March 3rd, 2025, 11:53:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
