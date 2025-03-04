@@ -31,6 +31,14 @@
 
 <p align="left">
 
+  <a href="https://github.com/ThiagoPanini/tf-modules-showcase">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=tf-modules-showcase&theme=transparent&hide_border=false" alt="tf-modules-showcase"/>
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/engineering-golden-case">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=engineering-golden-case&theme=transparent&hide_border=false" alt="engineering-golden-case"/>
+  </a>
+  
   <a href="https://github.com/ThiagoPanini/pynvest">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=transparent&hide_border=false" alt="pynvest"/>
   </a>
