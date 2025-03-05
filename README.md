@@ -191,15 +191,15 @@ So, I'm really excited to share with you all my open source projects that I buil
 ### ⚡ GitHub Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-2. 🎉 Merged PR [#5](https://github.com/ThiagoPanini/tf-modules-showcase/pull/5) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-3. 👍 Approved change [#5](https://github.com/ThiagoPanini/tf-modules-showcase/pull/5#pullrequestreview-2655395202) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-4. ❌ Closed PR [#4](https://github.com/ThiagoPanini/tf-modules-showcase/pull/4) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+1. ⬆️ Pushed 5 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+2. 🎉 Merged PR [#6](https://github.com/ThiagoPanini/tf-modules-showcase/pull/6) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+3. 👍 Approved change [#6](https://github.com/ThiagoPanini/tf-modules-showcase/pull/6#pullrequestreview-2657535502) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+4. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
 5. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 3rd, 2025, 11:53:47 PM
+Last Updated: Tuesday, March 4th, 2025, 11:53:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
