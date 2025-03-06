@@ -191,15 +191,15 @@ So, I'm really excited to share with you all my open source projects that I buil
 ### ⚡ GitHub Recent Activity
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-2. 🎉 Merged PR [#6](https://github.com/ThiagoPanini/tf-modules-showcase/pull/6) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-3. 👍 Approved change [#6](https://github.com/ThiagoPanini/tf-modules-showcase/pull/6#pullrequestreview-2657535502) on [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-4. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
-5. ⬆️ Pushed 1 commits to [ThiagoPanini/tf-modules-showcase](https://github.com/ThiagoPanini/tf-modules-showcase)<br>
+1. ⬆️ Pushed 2 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+2. ❌ Closed PR [#2](https://github.com/ThiagoPanini/engineering-golden-case/pull/2) on [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+3. ⬆️ Pushed 13 commits to [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+4. 🎉 Merged PR [#1](https://github.com/ThiagoPanini/engineering-golden-case/pull/1) on [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
+5. 👍 Approved change [#1](https://github.com/ThiagoPanini/engineering-golden-case/pull/1#pullrequestreview-2660961068) on [ThiagoPanini/engineering-golden-case](https://github.com/ThiagoPanini/engineering-golden-case)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 4th, 2025, 11:53:11 PM
+Last Updated: Wednesday, March 5th, 2025, 11:54:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
