@@ -192,11 +192,10 @@ So, I'm really excited to share with you all my open source projects that I buil
   
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commits to [ThiagoPanini/callisto](https://github.com/ThiagoPanini/callisto)<br>
-2. ⭐ Gave a stargaze on [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 15th, 2025, 12:23:59 AM
+Last Updated: Monday, June 16th, 2025, 12:21:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
     
 </details>  
