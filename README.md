@@ -1,6 +1,6 @@
 ## Thiago Panini <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-`Staff Analytics Engineer (and also gamer and anime fan)`
+`Staff Analytics Engineer (also gamer and anime fan)`
 
 I'm a passionate Staff Analytics Engineer with a love for data, technology, and continuous learning. My journey blends hands-on engineering, open source contributions, and community engagement. I don't spend most of my time coding, but I do enjoy it a lot. So this is the place where you can find some of my work and projects.
 
