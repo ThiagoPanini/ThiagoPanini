@@ -76,18 +76,19 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
 
 </details>
 
+
 ### References and Links
    
 - Devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for dynamic subtitle writing
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) for custom icons on badges
+- [devicons/devicon](https://github.com/devicons/devicon) for tech icons and tools
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) for YouTube cards
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for profile stats and GitHub activity
+- [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) for automating recent activity on GitHub
 
-<details>
-  <summary><i>👈 More resources</i></summary>
+---
 
-  - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for dynamic subtitle writing
-  - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) for custom icons on badges
-  - [devicons/devicon](https://github.com/devicons/devicon) for tech icons and tools
-  - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) for YouTube cards
-  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for profile stats and GitHub activity
-  - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) for automating recent activity on GitHub
-
-</details>
+<div align="center">
+  <sub>Built with ❤️ for the community</sub>
+</div>
