@@ -80,8 +80,27 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
 
 In the end, I think I'm real storyteller and one thing that makes me happy is to share my knowledge. Not only in my current job, but also in public events, conferences, and meetups.
 
->[!WARNING]
-> This section is under construction. I will update it soon with my latest public appearances.
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <h3>🎤 AWS re:Invent 2024</h3>  
+      <p>
+        I was honored to be an AWS re:Invent 2024 speaker, invited through the AWS Community Builder program to share insights on the Analytics Engineering career.
+      </p>
+      <p>
+        It was truly special to help spread awareness of this discipline to a global audience, connecting with professionals and enthusiasts from around the world.
+      </p>
+      <ul>
+        <li>
+          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Watch the presentation</a>
+        </li>
+      </ul>
+    </td>
+    <td style="border: 0";>
+      <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/reinvent-speaker.jpeg?raw=true" />
+    </td>
+  </tr>
+</table>
 
 
 ### References and Links
