@@ -41,7 +41,7 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
 
 <details>
   <summary><i>👈 Click to see "legacy" repos</i></summary>
-
+<br />
 <p align="left">
 
   <a href="https://github.com/ThiagoPanini/datadelivery">
@@ -75,6 +75,13 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
 </a>
 
 </details>
+
+### Public Appearences
+
+In the end, I think I'm real storyteller and one thing that makes me happy is to share my knowledge. Not only in my current job, but also in public events, conferences, and meetups.
+
+>[!WARNING]
+> This section is under construction. I will update it soon with my latest public appearances.
 
 
 ### References and Links
