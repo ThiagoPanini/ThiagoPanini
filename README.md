@@ -97,7 +97,7 @@ In the end, I think I'm real storyteller and one thing that makes me happy is to
       </ul>
     </td>
     <td style="border: 0";>
-      <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/imgs/reinvent-speaker.jpeg?raw=true" />
+      <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/assets/reinvent-speaker.jpeg?raw=true" />
     </td>
   </tr>
 </table>
