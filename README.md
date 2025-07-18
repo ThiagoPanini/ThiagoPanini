@@ -98,10 +98,10 @@ At heart, I'm a storyteller who finds joy in sharing knowledge whether at work o
           📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Watch the presentation</a>
         </li>
         <li>
-          ✨ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS re:Invent</a>
+          ✨ <a href="https://reinvent.awsevents.com/">Know more about AWS re:Invent</a>
         </li>
         <li>
-          🛠️ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS Community Builder</a>
+          🛠️ <a href="https://builder.aws.com/connect/community/community-builders">Know more about AWS Community Builder</a>
         </li>
       </ul>
     </td>
@@ -114,25 +114,19 @@ At heart, I'm a storyteller who finds joy in sharing knowledge whether at work o
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/assets/reinvent-speaker.jpeg?raw=true" />
+      <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/assets/aws-summit-2024-v4.jpeg?raw=true" />
     </td>
     <td style="border: 0";>
-      <h3>🎤 AWS São Paulo Summit 2024</h3>  
+      <h3>🎤 AWS Summit São Paulo 2024</h3>  
       <p>
-        I had the opportunity to present at AWS Summit São Paulo 2024, where I shared my open source solutions and discussed how they can support others starting their careers in data. 
-      </p>
-      <p>
-        It was inspiring to connect with the community, showcase practical tools, and encourage newcomers to leverage open source for learning and growth in Data & Analytics Engineering.
+        Thanks to an invitation from <a href="https://www.linkedin.com/in/mariliabrito/">Marilia Brito</a>, I had the privilege of presenting at AWS Summit São Paulo 2024. During the event, I showcased my open source solutions and discussed how they can empower others beginning their careers in data and analytics. The presentation just broke all lounge's records (viewers and reviews).
       </p>
       <ul>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Watch the presentation</a>
+          🗂️ <a href="https://github.com/ThiagoPanini/panini-tech-stories/blob/main/terraform/terraform-aws-analytics-v2.pptx">Checkout the presentation file</a>
         </li>
         <li>
-          ✨ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS re:Invent</a>
-        </li>
-        <li>
-          🛠️ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS Community Builder</a>
+          📌 <a href="https://aws.amazon.com/pt/events/summits/sao-paulo/">Know more about AWS Summit</a>
         </li>
       </ul>
     </td>
