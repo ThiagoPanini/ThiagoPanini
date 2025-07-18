@@ -6,16 +6,19 @@ I'm a passionate Staff Analytics Engineer with a love for data, technology, and 
 
 ### Languages and Tools
 
-<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="Spark" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg"/>
-<img align="left" alt="Terraform" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/>
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-<img align="left" alt="AWS" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-
-<br />
-<br />
+<table border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 1";>
+      <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+      <img align="left" alt="Spark" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg"/>
+      <img align="left" alt="Terraform" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/>
+      <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+      <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
+      <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+      <img align="left" alt="AWS" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+    </td>
+  </tr>
+</table>
 
 ### Repos
 
@@ -78,26 +81,60 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
 
 ### Public Appearences
 
-In the end, I think I'm real storyteller and one thing that makes me happy is to share my knowledge. Not only in my current job, but also in public events, conferences, and meetups.
+At heart, I'm a storyteller who finds joy in sharing knowledge whether at work or through public events, conferences, and meetups. Connecting with others and exchanging ideas is one of the most rewarding aspects of my journey.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <h3>🎤 AWS re:Invent 2024</h3>  
       <p>
-        I was honored to be an AWS re:Invent 2024 speaker, invited through the AWS Community Builder program to share insights on the Analytics Engineering career.
+        I had the privilege of speaking at AWS re:Invent 2024, representing the AWS Community Builder program and Itaú to share perspectives on Analytics Engineering discipline. 
       </p>
       <p>
-        It was truly special to help spread awareness of this discipline to a global audience, connecting with professionals and enthusiasts from around the world.
+        It was a rewarding experience to promote this field to a global audience, fostering connections and sharing ideas with professionals and enthusiasts worldwide.
       </p>
       <ul>
         <li>
           📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Watch the presentation</a>
         </li>
+        <li>
+          ✨ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS re:Invent</a>
+        </li>
+        <li>
+          🛠️ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS Community Builder</a>
+        </li>
       </ul>
     </td>
     <td style="border: 0";>
       <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/assets/reinvent-speaker.jpeg?raw=true" />
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="1000" src="https://github.com/ThiagoPanini/ThiagoPanini/blob/main/assets/reinvent-speaker.jpeg?raw=true" />
+    </td>
+    <td style="border: 0";>
+      <h3>🎤 AWS São Paulo Summit 2024</h3>  
+      <p>
+        I had the opportunity to present at AWS Summit São Paulo 2024, where I shared my open source solutions and discussed how they can support others starting their careers in data. 
+      </p>
+      <p>
+        It was inspiring to connect with the community, showcase practical tools, and encourage newcomers to leverage open source for learning and growth in Data & Analytics Engineering.
+      </p>
+      <ul>
+        <li>
+          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Watch the presentation</a>
+        </li>
+        <li>
+          ✨ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS re:Invent</a>
+        </li>
+        <li>
+          🛠️ <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Know more about AWS Community Builder</a>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
