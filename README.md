@@ -119,8 +119,11 @@ At heart, I'm a storyteller who finds joy in sharing knowledge whether at work o
     <td style="border: 0";>
       <h3>🎤 AWS Summit São Paulo 2024</h3>  
       <p>
-        Thanks to an invitation from <a href="https://www.linkedin.com/in/mariliabrito/">Marilia Brito</a>, I had the privilege of presenting at AWS Summit São Paulo 2024. During the event, I showcased my open source solutions and discussed how they can empower others beginning their careers in data and analytics. The presentation just broke all lounge's records (viewers and reviews).
+        Thanks to an invitation from <a href="https://www.linkedin.com/in/mariliabrito/">Marilia Brito</a>, I had the privilege of presenting at AWS Summit São Paulo 2024.
       </p>
+      <p>
+        During the event, I showcased my open source solutions and discussed how they can empower others beginning their careers in data and analytics. The presentation just broke all lounge's records (viewers and reviews).
+      </p:>
       <ul>
         <li>
           🗂️ <a href="https://github.com/ThiagoPanini/panini-tech-stories/blob/main/terraform/terraform-aws-analytics-v2.pptx">Checkout the presentation file</a>
