@@ -39,9 +39,12 @@ I'm a passionate Staff Analytics Engineer with a love for data, technology, and 
 
 The past cannot be completely forgotten. Here is a list of valuable projects that are part of a "legacy" group that will be reviewed, updated, or even merged into new solutions.
 
+<details>
+  <summary><i>👈 Click to see "legacy" repos</i></summary>
+
 <p align="left">
 
-  <a href="https://github.com/ThiagoPanini/terraglue">
+  <a href="https://github.com/ThiagoPanini/datadelivery">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=transparent&hide_border=false" alt="terraglue">
   </a>
 
@@ -53,8 +56,16 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=transparent&hide_border=false" alt="pynvest">
   </a>
 
-  <a href="https://github.com/ThiagoPanini/panini-tech-stories">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=panini-tech-stories&theme=transparent&hide_border=false" alt="panini-tech-stories">
+  <a href="https://github.com/ThiagoPanini/terraglue">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=transparent&hide_border=false" alt="terraglue">
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/sparksnake">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=sparksnake&theme=transparent&hide_border=false" alt="sparksnake">
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/cloudgeass">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=cloudgeass&theme=transparent&hide_border=false" alt="cloudgeass">
   </a>
        
 </p>
@@ -63,12 +74,14 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click to see more-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 
+</details>
+
 ### References and Links
    
 - Devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
 
 <details>
-  <summary><i>Maybe you will also like</i></summary>
+  <summary><i>👈 More resources</i></summary>
 
   - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for dynamic subtitle writing
   - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) for custom icons on badges
@@ -76,3 +89,5 @@ The past cannot be completely forgotten. Here is a list of valuable projects tha
   - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) for YouTube cards
   - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for profile stats and GitHub activity
   - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) for automating recent activity on GitHub
+
+</details>
