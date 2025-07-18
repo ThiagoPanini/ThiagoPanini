@@ -4,9 +4,6 @@
 
 I'm a passionate Staff Analytics Engineer with a love for data, technology, and continuous learning. My journey blends hands-on engineering, open source contributions, and community engagement. I don't spend most of my time coding, but I do enjoy it a lot. So this is the place where you can find some of my work and projects.
 
->[!NOTE]
-> I'm currently rebuilding my GitHub profile, so it may look a bit different than usual. I'm working on it to make it more informative and engaging.
-
 ### Languages and Tools
 
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -22,6 +19,9 @@ I'm a passionate Staff Analytics Engineer with a love for data, technology, and 
 
 ### Repos
 
+>[!NOTE]
+> I'm currently rebuilding my GitHub profile, so it may look a bit different than usual. It includes a complete update of my old projects and repositories. The ones listed below are some of my recent work.
+
 <p align="left">
 
   <a href="https://github.com/ThiagoPanini/tfbox">
@@ -33,10 +33,35 @@ I'm a passionate Staff Analytics Engineer with a love for data, technology, and 
   </a>  
        
 </p>
-  
-  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click to see more-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+
+
+### Repos (Legacy)
+
+The past cannot be completely forgotten. Here is a list of valuable projects that are part of a "legacy" group that will be reviewed, updated, or even merged into new solutions.
+
+<p align="left">
+
+  <a href="https://github.com/ThiagoPanini/terraglue">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=terraglue&theme=transparent&hide_border=false" alt="terraglue">
   </a>
+
+  <a href="https://github.com/ThiagoPanini/pynvest">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest&theme=transparent&hide_border=false" alt="pynvest">
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/pynvest-tools">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=pynvest-tools&theme=transparent&hide_border=false" alt="pynvest">
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/panini-tech-stories">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=panini-tech-stories&theme=transparent&hide_border=false" alt="panini-tech-stories">
+  </a>
+       
+</p>
+
+<a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers">
+  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click to see more-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
 
 ### References and Links
    
