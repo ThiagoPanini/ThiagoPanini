@@ -20,6 +20,24 @@ I'm a passionate Staff Analytics Engineer with a love for data, technology, and 
 <br />
 <br />
 
+### Repos
+
+<p align="left">
+
+  <a href="https://github.com/ThiagoPanini/tfbox">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=tfbox&theme=transparent&hide_border=false" alt="tf-box">
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/tech-playground">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=tech-playground&theme=transparent&hide_border=false" alt="techplayground">
+  </a>  
+       
+</p>
+  
+  <a href="https://github.com/ThiagoPanini?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click to see more-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+
 ### References and Links
    
 - Devs [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
