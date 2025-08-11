@@ -33,7 +33,11 @@ I'm a passionate Staff Analytics Engineer with a love for data, technology, and 
 
   <a href="https://github.com/ThiagoPanini/tech-playground">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=tech-playground&theme=transparent&hide_border=false" alt="techplayground">
-  </a>  
+  </a>
+
+  <a href="https://github.com/ThiagoPanini/b3stocks">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThiagoPanini&repo=b3stocks&theme=transparent&hide_border=false" alt="b3stocks">
+  </a> 
        
 </p>
 
